@@ -1,0 +1,809 @@
+MPH GROWTH TRACKER
+FUNCTIONAL / CONTENT / DATA SPECIFICATION FOR A REDESIGN
+Source of truth: current standalone HTML application after removing Books and Daily Intelligence.
+
+IMPORTANT SCOPE
+================
+This document describes function, content, storage, navigation, calculations, reminders, backup, and question-paper data only.
+Do NOT copy the old visual styling, component appearance, color choices, spacing, typography, card design, layout styling, or animation behavior.
+The redesign may completely replace the UI and animation while preserving the functional contract below.
+Books and Daily Intelligence are intentionally removed from the app.
+
+1. APPLICATION ARCHITECTURE
+============================
+- One self-contained HTML document.
+- Plain HTML + CSS + vanilla JavaScript. No React, Vue, Angular, Bootstrap, Tailwind, or other frontend framework is required by the current app.
+- No application backend is present in the current implementation.
+- Data is primarily persisted in browser localStorage.
+- The app behaves like a single-page app for navigation, but the views are rendered dynamically into a central detail area.
+- Main dashboard cards use data-open values. Opening a card changes History API state and renders a detail view instead of navigating to a separate HTML document.
+- Question-paper reader is another in-app state and the PDF viewer is a separate history state.
+- Existing PDF files are expected to be available by filename relative to the HTML document.
+- The app must remain usable without a server-side application database; localStorage is the persistence layer.
+
+2. MAIN DASHBOARD: CARDS THAT REMAIN
+=====================================
+The main dashboard contains these functional destinations in the current order:
+1) Parameters
+2) To-Do
+3) Affirmations
+4) Question Papers
+5) IIPHG Syllabus
+6) Reviews
+7) Settings
+
+Reviews and Settings are rendered as two separate actionable destinations inside the final dashboard row.
+
+Removed completely:
+- Books
+- Daily Intelligence
+
+3. GLOBAL DATE / TIME BASICS
+=============================
+- TODAY is a YYYY-MM-DD string generated from the browser's current local Date.
+- dateMinus(n) shifts the local calendar date by n days.
+- The app uses the user's local browser date/time for daily calculations.
+- Week keys are derived from the configured weekly-check weekday.
+- The default weekly-check day is Sunday (numeric day index 0).
+- The default streak threshold is 3 missed days.
+
+4. PARAMETERS CARD
+===================
+Purpose:
+Track daily habits/behaviors, weekly tasks, and historical completion.
+
+The Parameters card has 3 modes:
+- Daily
+- Weekly
+- History
+
+4.1 DAILY MODE
+---------------
+Daily mode has seven built-in parameter sections.
+
+A) Morning
+Fields:
+- Wake-up time
+  key: wakeTime
+  type: seg3
+  options:
+    onTime = Up to 6:30
+    little = 6:30–7:00
+    late = After 7:00
+  This is a single-choice field.
+- Yoga or walking, 20–30 min
+  key: yogaOrWalk
+  type: bool (Yes/No)
+  streak display enabled.
+
+B) MPH Daily Study
+Fields:
+- Textbook reading – 30 min
+  key: textbookReading
+  type: bool
+  streak display enabled.
+- Today's class revision
+  key: todayClassRevision
+  type: bool
+- Assignment / academic work
+  key: assignmentWork
+  type: bool
+
+C) Subject Revision
+Fields:
+- Which subjects did you read today?
+  key: subject
+  type: chipsMulti
+  built-in choices:
+    Epidemiology
+    Biostatistics
+    Health Policy & Mgmt
+    Environmental Health
+    Social & Behavioral Sci
+    Health Systems
+    Research Methods
+    Nutrition
+  Multiple choices are allowed simultaneously.
+  A user can also add a free-form subject through “Other”.
+  Extra user-entered subjects remain stored as values in the same array.
+
+D) Research
+Fields:
+- Read 1 research paper
+  key: readPaper
+  type: bool
+- Noted 3 key points
+  key: keyPoints
+  type: bool
+- Methodology / critical appraisal
+  key: methodology
+  type: bool
+- Why / when will you fit it in
+  key: reasonIfNo
+  type: condText
+  dependency keys: readPaper, keyPoints, methodology
+  show this text field only if at least one dependency is explicitly False.
+  This conditional text field is not counted in completion totals.
+
+E) Skill Development
+Fields:
+- Which skills did you work on today?
+  key: skill
+  type: chips (single choice)
+  options:
+    New skill
+    Excel
+    Stat software
+    Presentation
+    None
+- English speaking – 10 min
+  key: englishSpeaking
+  type: bool
+  streak display enabled.
+
+F) Professional Growth
+Fields:
+- Learned 1 new public health concept
+  key: conceptLearned
+  type: bool
+- Learned 3 new professional words
+  key: wordsLearned
+  type: bool
+- Public health news / current update
+  key: newsChecked
+  type: bool
+
+G) Night Reset
+Fields:
+- Review today's learning
+  key: reviewLearning
+  type: bool
+- Complete / note pending work
+  key: pendingWork
+  type: boolNote
+  contains done state plus optional note text.
+- Was my meal timing consistent and my mealtime used purposefully?
+  key: mealMindful
+  type: bool
+- Did I take my vitamin(s) today?
+  key: vitamin
+  type: bool
+- One thing you're grateful for
+  key: gratitude
+  type: text
+- 5-min meditation / breathing
+  key: meditation
+  type: bool
+  streak display enabled.
+
+4.2 DAILY VALUE TYPES
+----------------------
+Built-in field types:
+- bool: exact boolean true/false.
+- boolNote: object with done:true/false and optional note string.
+- seg3: one enumerated choice.
+- chips: one enumerated choice.
+- chipsMulti: array of selected strings.
+- text: free-form string.
+- condText: free-form string shown conditionally; not part of completion total.
+- link: internal navigation link type exists in the renderer contract, but no remaining built-in parameter currently depends on it.
+
+A field is considered filled as follows:
+- bool: true or false both count as answered.
+- boolNote: object with done true or false counts as answered.
+- seg3/chips: a truthy stored value counts.
+- chipsMulti: non-empty array counts.
+- text: trimmed non-empty string counts.
+- custom numeric/text/etc. use customValueFilled rules below.
+
+4.3 DAILY PROGRESS
+-------------------
+For each day and each built-in section:
+- Exclude condText and link fields from totals.
+- Exclude hidden parameters from totals.
+- Every custom parameter adds one total.
+- A custom parameter counts done when its value satisfies its type-specific filled rule.
+- Section progress = done / total.
+- Overall parameter completion = sum of all section done values / sum of all section totals.
+- This produces the percentage shown in History and used by Reviews.
+
+4.4 STREAKS
+------------
+Some built-in boolean fields have a streak marker enabled.
+The streak function walks backward from the selected day and counts consecutive days where that field is not true.
+Streak logic recognizes bool true and boolNote objects with done:true as true.
+
+The “needed attention” logic checks boolean/boolNote fields and flags a field when its missed streak is greater than or equal to SETTINGS.streakFlagDays.
+The missed-streak scan is capped at 90 days and at the age of the earliest stored record.
+
+4.5 CUSTOM DAILY PARAMETERS
+-----------------------------
+Storage key: mph_custom_v1
+Structure: object keyed by built-in card ID, each value is an array of custom definitions.
+A custom definition contains at minimum:
+- id
+- label
+- type
+Optional:
+- placeAfter
+- options (for choice type)
+
+Available custom types:
+- yesno
+- rating (1–5)
+- number
+- emoji/mood
+- choice
+- text
+
+For choice type, options are comma-separated by the user; if none are given, default options are Option 1 and Option 2.
+Daily custom values are stored inside mph_records_v1 under the key custom_<customId> inside the owning card/date record.
+
+The Daily Parameters page has “Add your own parameter”.
+The user chooses:
+- where it should appear (section placement)
+- answer type
+- optional comma-separated choices
+
+Custom fields can be deleted. Deleting a custom field also removes the matching custom_<id> value from the selected date's record.
+
+5. PARAMETERS: WEEKLY MODE
+===========================
+Weekly data is stored by a week key.
+
+Built-in weekly fields:
+- Revise all major topics this week
+  key: reviseAll
+  type: bool
+- Review research papers read
+  key: reviewPapers
+  type: bool
+- Review skill progress
+  key: reviewSkills
+  type: bool
+- Organize notes
+  key: organizeNotes
+  type: bool
+- Check pending assignments
+  key: checkAssignments
+  type: bool
+- Plan next week
+  key: planNextWeek
+  type: boolNote
+
+Weekly storage keys:
+- mph_weekly_v1 = object keyed by week key, then field key -> value.
+- mph_weekly_custom_v1 = array of weekly custom definitions.
+
+Weekly custom parameters use the same conceptual custom types as daily parameters.
+The Weekly page supports adding a custom weekly parameter, editing it, and deleting it.
+
+Weekly progress counts built-in visible weekly fields plus all weekly custom fields.
+A bool is done when true or false has been explicitly selected.
+A boolNote is done when done:true or done:false exists.
+A custom value is done according to customValueFilled.
+
+Week calculation:
+- The start day is SETTINGS.weeklyCheckDay.
+- weekKey(0) is the current configured week.
+- negative offsets access past weeks.
+- positive offsets represent future week keys for navigation but the UI prevents moving beyond the current week.
+
+6. PARAMETERS: HISTORY MODE
+============================
+History is a month calendar based on the browser's current month.
+Behavior:
+- Shows all dates in the selected month.
+- Future dates are disabled.
+- Past/current dates can be selected.
+- Each date can show an activity dot if there is recorded activity.
+- Each date can show that day's completion percentage.
+- Selecting a date switches back to Daily mode for that date.
+- Previous months can be viewed.
+- Future months are blocked from being selected beyond the current month.
+
+7. TO-DO CARD
+=============
+Storage key: mph_todos_v1
+Value shape: object keyed by YYYY-MM-DD, each value is an array of items.
+Each item is:
+- id
+- text
+- status
+Status values used by the current implementation:
+- null (not yet marked)
+- done
+- missed
+
+Current page behavior:
+- It displays a section labeled “Yesterday's list” backed by TODOS[TODAY] in the existing source.
+- It displays a section labeled “Tomorrow's plan” backed by TODOS[TOMORROW].
+- Tomorrow tasks can be added with free text.
+- Tomorrow tasks can be deleted.
+- Items in the TODAY-backed list can be marked Done or Missed.
+- Clicking the already-selected status toggles that status back to null.
+- No separate task-edit operation exists; the current code supports add, status toggle, and delete.
+
+Dashboard summary:
+- If nothing exists in today's/tomorrow's data, shows Nothing planned.
+- Otherwise displays the number planned for tomorrow.
+
+Important redesign note:
+Preserve the stored data semantics unless deliberately migrating them. The existing code's “Yesterday's list” label maps to TODOS[TODAY].
+
+8. AFFIRMATIONS CARD
+=====================
+Storage key: mph_affirmations_v1
+Value shape: object keyed by YYYY-MM-DD -> array of strings.
+
+Behavior:
+- Today section lists all strings for today.
+- User can add an affirmation.
+- User can delete an affirmation.
+- Previous dates with at least one affirmation are listed.
+- A previous date can be expanded to see its saved lines.
+- In Parameters Daily mode, there is also an Affirmations block associated with the selected parameter date.
+- Adding/deleting from that embedded block updates the same mph_affirmations_v1 store.
+
+The dashboard summary shows:
+- “N today” when at least one exists.
+- “None yet today” when none exists.
+
+9. IIPHG SYLLABUS CARD
+======================
+Storage key: mph_syllabus_v1
+Current topic list is exactly the following 20 source-defined placeholder topics:
+1. Epidemiology Basics
+2. Disease Surveillance
+3. Biostatistics Fundamentals
+4. Research Study Designs
+5. Health Policy Analysis
+6. Health Systems & Governance
+7. Environmental Health Hazards
+8. Occupational Health
+9. Maternal & Child Health
+10. Nutrition & Public Health
+11. Social & Behavioral Determinants
+12. Health Communication
+13. Communicable Disease Epidemiology
+14. Non-Communicable Diseases
+15. Health Program Planning
+16. Monitoring & Evaluation
+17. Health Economics
+18. Global Health Issues
+19. Ethics in Public Health
+20. Data Analysis Methods
+
+IMPORTANT CONTENT NOTE:
+The current source explicitly describes these as placeholder MPH topics and says the real IIPHG list should replace them when supplied. Do not silently claim these are the official IIPHG syllabus unless the source content is later updated.
+
+Each topic has one of four stored states:
+- none = Not started
+- touched = Touched
+- revised = Revised
+- solid = Solid
+
+Cycle behavior:
+none -> touched -> revised -> solid -> none
+
+Progress weighting:
+- none = 0
+- touched = 1
+- revised = 2
+- solid = 3
+Overall percentage = weighted points / (20 * 3) * 100, rounded to nearest integer.
+
+10. QUESTION PAPERS CARD
+========================
+The app contains 15 paper subjects in the current source.
+The complete question-paper content is provided in the separate file:
+MPH_Question_Papers_Subject_Wise.txt
+
+Each subject entry contains:
+- numbered subject
+- subject title
+- source PDF filename
+- one or more academic/session years
+- long-question marks (currently 10)
+- short-question marks (currently 5)
+- long questions
+- short questions
+
+Question-paper reader behavior:
+- Main Question Papers page lists the 15 paper subjects.
+- Selecting a subject enters a paper reader state.
+- The reader renders each session/year in order.
+- Each session separates Long Questions and Short Questions.
+- The first session's marks are used for the header legend; current source data uses 10 marks for long questions and 5 marks for short questions.
+- A Download PDF link points at encodeURIComponent(p.file) and assumes the corresponding PDF exists relative to the app.
+
+PDF viewer / navigation:
+- The app has an internal PDF modal state.
+- A paper can be opened with a history entry.
+- Closing/back from the PDF returns to the exact underlying paper/section using History API.
+- Android Chrome Back/swipe is intentionally supported through history state.
+
+11. REVIEWS CARD
+=================
+Reviews is derived from stored Parameters, To-Do, and Affirmations data. It does not have its own persistence key.
+
+Current review period is initialized as “week”.
+Supporting calculations include:
+
+A) Category percentage
+For each category and a requested date range:
+- visible built-in fields excluding condText/link
+- plus all custom fields
+- numerator = filled answers
+- denominator = total answer slots
+- rounded percentage
+
+B) Earliest stored record
+The earliest date key present in mph_records_v1 is used as a lower bound for missed-streak scanning.
+
+C) Subject summary
+Reads the Subject Revision multi-select over a date range.
+Counts each selected subject.
+Reports the most-used subject and least-used subject.
+If none have been selected, returns “No subjects logged yet”.
+
+D) On-time percentage
+Used for seg3 fields where the value equals “onTime”.
+
+E) Affirmation count
+Counts all affirmation strings across the requested number of past days.
+
+F) To-Do completion percentage
+Across the requested days, counts all stored todo items and the subset with status done.
+Returns null when there are no items.
+
+G) Strongest category / weakest category
+Compares category percentages.
+These are used to create narrative suggestions.
+
+H) Field breakdown
+For bool and boolNote fields, counts days where the field is true.
+
+I) Attention flags
+Fields meeting the missed-streak threshold are surfaced as needing attention.
+
+J) Weekly rhythm / pattern view
+The current implementation looks at the last 7 days and derives:
+- active days
+- day-by-day completion percentage
+- early-week average (first three points with activity)
+- recent average (last three points with activity, excluding the final point by current slicing convention)
+- delta
+- trend label
+- consistency based on standard deviation bands
+- biggest category movement
+- most frequently selected subject
+- number of days with affirmations
+- To-Do completion percentage
+
+Narrative outputs include:
+- active-day summary
+- strongest/weakest section
+- movement across the week
+- study focus
+- affirmations pattern
+- To-Do pattern
+
+No separate review data is stored; reviews are recalculated from source data whenever rendered.
+
+12. SETTINGS CARD
+==================
+Storage key: mph_settings_v1
+Default settings object:
+{
+  "weeklyCheckDay": 0,
+  "streakFlagDays": 3
+}
+
+Settings contains:
+
+A) Theme
+Values:
+- auto
+- light
+- dark
+Theme value is stored in mph_theme.
+System dark-mode changes are watched when theme is auto.
+
+B) Weekly Check day
+Stored as numeric day-of-week:
+0 Sunday
+1 Monday
+2 Tuesday
+3 Wednesday
+4 Thursday
+5 Friday
+6 Saturday
+
+C) Streak threshold
+streakFlagDays is parsed as an integer, with a minimum enforced value of 1.
+
+D) Reminders
+The current settings page provides:
+- Add to Google Calendar
+- Download .ics
+
+The Google Calendar concept in the source is a recurring weekly event using Google Calendar's event-template endpoint with:
+- action=TEMPLATE
+- event title “Weekly Check”
+- description “MPH Growth Tracker weekly check-in”
+- selected weekday
+- recurrence rule FREQ=WEEKLY;BYDAY=<day>
+- a 30-minute event duration
+- browser-resolved timezone
+
+IMPORTANT CURRENT SOURCE QUIRKS TO FIX IN THE REDESIGN:
+- The Settings text says Weekly Check occurs at 8:30 PM, but the current gcalLink call passes hour=20 (8:00 PM).
+- The helper gcalLink and ICS generator call a nextOccurrence(...) function that is not present in the current source snapshot. A redesign must implement nextOccurrence correctly and use the same 8:30 PM time everywhere.
+- The weekly on-screen reminder condition currently checks Sunday directly instead of SETTINGS.weeklyCheckDay. A redesign should use the configured weeklyCheckDay.
+- The user asked that Google Calendar open directly; retain the Google Calendar handoff, not a mandatory file download.
+
+E) Manage Parameters
+Settings can remove/restore built-in daily and weekly questions.
+Daily visibility is stored as entries of the form:
+cardId|fieldKey
+Weekly visibility is stored as field keys.
+Removed fields are excluded from daily/weekly rendering and completion calculations.
+Restore all clears the respective hidden array.
+
+F) Backup
+Export creates a JSON file containing the currently defined BACKUP_KEYS.
+Current backup keys after removing Books and Daily Intelligence are:
+- mph_records_v1
+- mph_syllabus_v1
+- mph_custom_v1
+- mph_todos_v1
+- mph_affirmations_v1
+- mph_weekly_v1
+- mph_weekly_custom_v1
+- mph_settings_v1
+- mph_parameter_visibility_v1
+- mph_theme
+
+Import behavior:
+- User selects a .json file.
+- Confirmation warns that the current data will be replaced.
+- Each known backup key present in the file is written to localStorage.
+- Page reloads after successful restore.
+- Invalid JSON shows an error alert.
+
+13. ON-SCREEN REMINDER SYSTEM
+=============================
+There is a lightweight in-app reminder area on the main page.
+This is not a browser push-notification service and is not an OS notification system.
+
+Daily reminder behavior:
+- Eligible from 8:30 PM local time onward.
+- Only shown when today's parameter completion is incomplete.
+- Message: Daily check-in / Take a moment to finish today’s parameters.
+- Clicking the reminder opens Parameters.
+- The close button dismisses the reminder.
+- Dismissal key: mph_reminder_daily_YYYY-MM-DD
+- Once dismissed, it does not reappear for that date.
+
+Weekly reminder behavior in the source:
+- Intended as a weekly check reminder after 8:30 PM on the configured weekly day.
+- It is currently hard-coded to Sunday in renderReminders and should be corrected to SETTINGS.weeklyCheckDay for the redesign.
+- It is shown only when weekly progress is incomplete.
+- Message: Weekly check-in / Review and complete your weekly parameters.
+- Clicking opens Parameters.
+- Dismissal key: mph_reminder_weekly_<selectedWeekKey>
+- Once dismissed, it stays dismissed for that week.
+
+Rendering frequency:
+- renderReminders() is called when the dashboard renders.
+- It is called every 30 seconds afterward, so crossing 8:30 PM while the app remains open can make the banner appear without a full page reload.
+
+No browser Notification API, service worker, push token, or mobile OS scheduling is present in the current implementation.
+
+14. GOOGLE CALENDAR REMINDER IMPLEMENTATION CONTRACT
+====================================================
+For the redesigned app, the “Add to Google Calendar” action should:
+1) Calculate the next occurrence of SETTINGS.weeklyCheckDay at exactly 8:30 PM local time.
+2) Create a 30-minute event.
+3) Use the browser's resolved IANA timezone.
+4) Use Google Calendar's event-template URL.
+5) Add:
+   title = Weekly Check
+   description = MPH Growth Tracker weekly check-in
+   recurrence = weekly on the configured weekday
+6) Open the Google Calendar URL directly in a new browser tab/window.
+7) Do not require the user to download an ICS file for the normal Google Calendar action.
+8) The optional ICS action may remain only as a secondary export/compatibility option.
+9) The app itself cannot silently create an authenticated Google Calendar event without user authorization; the normal standalone HTML flow is a prefilled Google Calendar handoff.
+
+15. NAVIGATION / HISTORY API CONTRACT
+=====================================
+The app uses browser History API states with mphTracker=true.
+
+State examples:
+Home:
+{mphTracker:true,mphView:'home',currentCard:null,currentPaper:null}
+
+Regular card:
+{mphTracker:true,mphView:'<cardId>',currentCard:'<cardId>',currentPaper:null}
+
+Paper:
+{mphTracker:true,mphView:'paper',currentCard:'papers',currentPaper:'<filename>'}
+
+PDF:
+{mphTracker:true,mphView:'pdf',currentCard:'papers',currentPaper:'<filename>',pdfFilename:'<filename>',pdfTitle:'<title>'}
+
+Hash forms:
+#home
+#view=<cardId>
+#paper=<encoded filename>
+#pdf=<encoded filename>&title=<encoded title>&card=<encoded card>&paper=<encoded paper>
+
+Routing operations:
+- navigateTo(view) uses history.pushState and then renders the destination.
+- setAppRoute(state,false) creates a new entry.
+- replace mode can update the current entry without pushing.
+- stateFromLocation reconstructs state from history.state or the hash.
+- applyViewState renders the state.
+
+Back behavior:
+- The Back button calls history.back() when an app-owned history state exists.
+- PDF Back returns to the underlying paper through a dedicated history entry.
+- Android Chrome Back/swipe-back is handled by popstate.
+- If an unexpected non-app history entry is exposed, the code installs a safe home state.
+
+The redesigned UI may be completely different, but the same semantics should be preserved so browser Back behaves naturally.
+
+16. RESPONSIVE / DESKTOP FUNCTIONAL BEHAVIOR
+=============================================
+The current app supports two functional viewing modes:
+- Narrow/mobile: either home or detail is visible.
+- Wide/desktop (min-width: 900px): home and detail can coexist.
+
+There is a persisted desktop sidebar-collapsed preference:
+localStorage key: mph_sidebar_collapsed
+value: '1' or absent/'0'
+
+This is a layout preference only; redesign may implement it differently or omit it if the new UI does not need a desktop sidebar, provided navigation/functionality remain intact.
+
+17. DATA-SAFETY / XSS / INPUT HANDLING CONTRACT
+================================================
+The source uses an esc(...) helper before placing user/content strings into HTML.
+The redesign should continue escaping user-entered strings and externally fetched text before inserting them into the DOM.
+External URLs should be encoded/validated before being assigned to links.
+
+18. ACCESSIBILITY / INTERACTION CONTRACT
+=========================================
+Functional behavior in the current source includes:
+- button-based interactions for state changes
+- labels/aria-labels on many controls
+- keyboard Escape to close the PDF viewer
+- clickable Back control
+- disabled future-date controls
+- visible focus/interaction affordances in the old UI (visual styling itself is intentionally not specified here)
+
+The redesign should keep equivalent keyboard and assistive-technology semantics even though the UI may be completely redesigned.
+
+19. REMOVED FUNCTIONALITY
+=========================
+The redesigned app must NOT contain:
+- Books card
+- BOOKS data
+- book renderer
+- Daily Intelligence card
+- Daily Intelligence research feed
+- Daily Intelligence event/CME feed
+- Daily Intelligence local-location storage
+- Daily Intelligence saved-article storage
+- Daily Intelligence saved-event storage
+- Daily Intelligence network refresh logic
+
+Any old localStorage values from the removed intelligence feature may remain harmlessly in a user's browser, but the redesigned application does not read or back them up.
+
+20. CONTENT / REDESIGN RULES OF THUMB
+=====================================
+Keep the following content contract stable unless the user explicitly changes it:
+- Daily parameter labels and choices.
+- Weekly parameter labels.
+- Affirmation behavior.
+- To-Do behavior.
+- Syllabus topic labels and state names until the real IIPHG syllabus is supplied.
+- Question-paper subjects, session years, marks, and question wording.
+- Review calculations and narrative inputs.
+- Reminder timing and dismissal semantics, with the noted weekly-day bug corrected.
+- Google Calendar handoff for the weekly check.
+- JSON backup/import coverage.
+
+Do not invent new question paper questions, syllabus topics, stored field names, reminder semantics, or review metrics when rebuilding unless explicitly requested.
+
+21. MACHINE-READABLE CORE DATA CONTRACT (REFERENCE)
+====================================================
+CARDS = [
+  {
+    id: "morning",
+    title: "Morning",
+    fields: [
+      {key:"wakeTime", type:"seg3", options:[["onTime","Up to 6:30"],["little","6:30–7:00"],["late","After 7:00"]]},
+      {key:"yogaOrWalk", type:"bool", streak:true}
+    ]
+  },
+  {
+    id: "study",
+    title: "MPH Daily Study",
+    fields: [
+      {key:"textbookReading", type:"bool", streak:true},
+      {key:"todayClassRevision", type:"bool"},
+      {key:"assignmentWork", type:"bool"}
+    ]
+  },
+  {
+    id: "subject",
+    title: "Subject Revision",
+    fields: [
+      {key:"subject", type:"chipsMulti", options:["Epidemiology","Biostatistics","Health Policy & Mgmt","Environmental Health","Social & Behavioral Sci","Health Systems","Research Methods","Nutrition"]}
+    ]
+  },
+  {
+    id: "research",
+    title: "Research",
+    fields: [
+      {key:"readPaper", type:"bool"},
+      {key:"keyPoints", type:"bool"},
+      {key:"methodology", type:"bool"},
+      {key:"reasonIfNo", type:"condText", dependsOn:["readPaper","keyPoints","methodology"]}
+    ]
+  },
+  {
+    id: "skill",
+    title: "Skill Development",
+    fields: [
+      {key:"skill", type:"chips", options:["New skill","Excel","Stat software","Presentation","None"]},
+      {key:"englishSpeaking", type:"bool", streak:true}
+    ]
+  },
+  {
+    id: "prof",
+    title: "Professional Growth",
+    fields: [
+      {key:"conceptLearned", type:"bool"},
+      {key:"wordsLearned", type:"bool"},
+      {key:"newsChecked", type:"bool"}
+    ]
+  },
+  {
+    id: "night",
+    title: "Night Reset",
+    fields: [
+      {key:"reviewLearning", type:"bool"},
+      {key:"pendingWork", type:"boolNote"},
+      {key:"mealMindful", type:"bool"},
+      {key:"vitamin", type:"bool"},
+      {key:"gratitude", type:"text"},
+      {key:"meditation", type:"bool", streak:true}
+    ]
+  }
+]
+
+WEEKLY_FIELDS = [
+  {key:"reviseAll", type:"bool", label:"Revise all major topics this week"},
+  {key:"reviewPapers", type:"bool", label:"Review research papers read"},
+  {key:"reviewSkills", type:"bool", label:"Review skill progress"},
+  {key:"organizeNotes", type:"bool", label:"Organize notes"},
+  {key:"checkAssignments", type:"bool", label:"Check pending assignments"},
+  {key:"planNextWeek", type:"boolNote", label:"Plan next week"}
+]
+
+LOCAL_STORAGE_KEYS = {
+  records: "mph_records_v1",
+  syllabus: "mph_syllabus_v1",
+  dailyCustom: "mph_custom_v1",
+  todos: "mph_todos_v1",
+  affirmations: "mph_affirmations_v1",
+  settings: "mph_settings_v1",
+  weekly: "mph_weekly_v1",
+  weeklyCustom: "mph_weekly_custom_v1",
+  parameterVisibility: "mph_parameter_visibility_v1",
+  theme: "mph_theme",
+  sidebarPreference: "mph_sidebar_collapsed"
+}

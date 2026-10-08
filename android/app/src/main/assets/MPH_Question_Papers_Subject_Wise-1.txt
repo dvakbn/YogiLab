@@ -1,0 +1,1598 @@
+MPH GROWTH TRACKER — QUESTION PAPERS SUBJECT-WISE
+Source: embedded PAPER_DATA from the current app HTML.
+The wording below is preserved from the source data, including apparent spelling/grammar quirks. No questions were invented, corrected, merged, or omitted.
+Total subjects: 15
+
+========================================================================================
+SUBJECT 01: Introduction to Public Health (Fundamentals of PH)
+SOURCE PDF: 01 - Introduction to Public Health (Fundamentals of PH).pdf
+TOTAL QUESTIONS: 55
+========================================================================================
+
+SESSION / YEAR: 2015-2017
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Describe the structure of health care delivery system in India
+2. “In Europe, many infectious diseases were controlled much before the discovery of antibiotics”- Explain the statement with suitable rationale
+
+SHORT QUESTIONS
+1. John Snow’s study on cholera in London
+2. Social determinants of health
+3. Salient features of history of Public health in ancient India
+
+SESSION / YEAR: 2016-2018
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. It is often said that “basic sanitation and safe water supply are more crucial than sophisticated health care services in determining health status of the community” – Explain this statement with proper rationale
+2. Describe the importance of Social determinants in health with proper examples
+
+SHORT QUESTIONS
+1. Role of John Snow in Public Health
+2. 3 tier system of Public health care delivery in India
+3. James Lind’s experiment on scurvy
+4. Briefly describe the major changes that happened in India’s Public health scenario following independence
+
+SESSION / YEAR: 2017-2019
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Explain why John snow is called father of Public Health
+2. Why malnutrition in children is considered more a social phenomenon than an isolated disease?
+
+SHORT QUESTIONS
+1. The renowned work of James Lind
+2. Principle of Ayurveda and how are they relevant even today
+3. Strategic management in health sector
+
+SESSION / YEAR: 2019-2021
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. How is Public Health different from individual health? Describe with an appropriate example of vulnerable community
+2. Please describe Indian Health System at state level and below in detail
+
+SHORT QUESTIONS
+1. World is facing transition in Health. Which are the determinants of this transition
+2. Write a note explaining your views on “What is management?”
+3. Please write in short about health system of 3 countries of the world, other than India. Dec2019/CC1101
+
+SESSION / YEAR: 2020-2022
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Please describe the health system in India in the public and private sector.
+2. Write a detailed note on importance of public health in the time of pandemic with an example of Covid19 pandemic.
+
+SHORT QUESTIONS
+1. Write a short note the determinants of health transitions that the word faces in recent times.
+2. Write a note on different functions / services of public health
+3. “The physical, mental, and social are not three different types of health dimensions; they are interconnected parts or facets of a whole” – Discuss with examples.
+
+SESSION / YEAR: 2021-2023
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Describe the differences in public health and clinical medicine with appropriate examples of vulnerable community
+2. Write a note on determinants of health and enlist three types of health-related transitions
+
+SHORT QUESTIONS
+1. Write a short note on the importance of public health in the time of Covid19 pandemic
+2. Write a note on different functions / services of public health
+3. “The physical, mental, and social are not three different types of health dimensions; they are interconnected parts or facets of a whole” – Discuss with examples.
+4. Write a note on different stakeholders in public health with an example of tobacco control interventions
+
+SESSION / YEAR: 2022-2024
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Write a note on evolution and status public health India.
+2. Write a note on social determinants of health with a focus on social gradient and social exclusion
+
+SHORT QUESTIONS
+1. Write a note on epidemiological and nutritional transitions
+2. Describe existing challenges of PH in India
+3. Public health is multi-disciplinary and inter-disciplinary field that involves a wide range of inputs from diverse players: Explain with examples
+
+SESSION / YEAR: 2023-2025
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. 10 essential public health services
+2. Role of stakeholders in public health using COVID-19 as example
+3. Three tier healthcare delivery system in India
+
+SHORT QUESTIONS
+1. NITI Ayog
+2. Quality of healthcare
+3. Values for public health ethics
+4. How mobile phone technology is influencing self-care for health of individuals?
+5. Discuss currently available avenues to ensure public interest in current health system in India
+6. Role of world health organization
+
+SESSION / YEAR: 2024-2026
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Discuss five principles of Ethics
+2. List the 10 essential public health functions
+3. Briefly discuss the Alma Ata Declaration and its relevance in achieving Universal Health Coverage.
+
+SHORT QUESTIONS
+1. WHO model for Health systems
+2. Population norms for ASHA SC PHC CHC and District Hospital in rural plan area in India
+3. Health system of Indian Railways
+4. Describe in short about different types of consent
+5. Discuss the types of private healthcare sector in India
+6. Public Health Service Delivery System in India.
+
+========================================================================================
+SUBJECT 02: Epidemiology-1
+SOURCE PDF: 02 - Epidemiology-1.pdf
+TOTAL QUESTIONS: 91
+========================================================================================
+
+SESSION / YEAR: 2015-2017
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. The following table summarizes results of a study to evaluate the Hemoglobin estimation by a newly developed field based estimation method as a diagnostic test for Anemia. The study compared results on the New Test to those obtained using the gold standard procedure in 368 individuals: 2x2 Table Summarizing Results of the Hb estimation Anemia (A+) No Anemia (A-) Totals Field Test Result (T+) 84 5 89 Field Test Result (T-) 131 148 279 Totals 215 153 368 Please Define and determine: a. Sensitivity & Specificity b. Predictive values of newly developed Test
+2. A study was conducted to document the possible association between miscarriage amongst women and exposure to agriculture pesticide in Sabarkantha district of Gujarat state, the observations are narrated below Miscarriage No Miscarriage Totals (D+) (D-) Exposed (E+) 30 70 100 Exposed (E-) 10 90 100 40 160 200 Calculate, Define and interpret OR & RR
+3. A team of Public Health researchers at the institute hypothesized that poor oral hygiene is a risk factor for preterm births (PTB). In a study design to test this hypothesis, 47 mothers having poor oral hygiene and 144 mothers in the same age group with good oral hygiene were recruited as subjects. Both the groups were followed till delivery and birth outcomes were recorded, the table below summarizes the result of this study. Preterm births Poor Oral Hygiene Yes No Totals Present 8 39 47 Absent 10 134 144 18 173 191 What type of study design was used? Calculate and interpret appropriate method to test the association.
+4. A descriptive study published recently in a journal suggested that Vitamin B-12 deficiency is seen more amongst those household who use Water drawn from Reverse Osmosis Plant. Suggest an appropriate Epidemiological study and describe in detail the steps for conducting this study to test this hypothesis.
+5. In a recent study published in Lancet, it was suggested that prevalence of Pneumonia is seen more amongst those who were born Pre term. ICMR has advertised a Call for proposal to develop a study to document the incidence of Pneumonia amongst Pre term babies. Suggest an appropriate Epidemiological study and describe various steps in conducting the same.
+6. Describe in detail STEPS for conducting a Randomize Control Trial.
+
+SHORT QUESTIONS
+1. Blinding in Randomized Control Trial (RCT)
+2. Matching in Randomized Control Trial (RCT)
+3. Relative risk & Odds Ration
+4. Incidence & Secondary Attack Rate (SAR)
+5. Tools of epidemiology measurement
+6. Epidemiological triad
+7. Modes of Prevention with examples
+8. Merits & demerits of case control study
+9. Cross over study design
+10. Hierarchy of association in epidemiology study design
+11. Types of Clinical Trial
+12. Bias & Confounders in Epidemiological Study designs
+
+SESSION / YEAR: 2016-2018
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Researchers at the institute are interested in testing the hypothesis of presence of insomnia among newly enrolled students at the institute. Second year students of MPH plans to undertake a study in First year. Please suggest a suitable study design and steps to conduct the same.
+2. If prevalence of any Disease in a community is 30%, if a test with Sensitivity of 80% and Specificity of 90% is applied to an apparently healthy population, please describe and calculate Predictive value and Positive and Negative.
+3. In a population of 1000 females aged 40 years and above were screened for Type II diabetes on 1st January 2013 and after screening 40 new cases were detected. The sequential follow up of the population and the cases was done during the rest of the year. During the latter half of the year, FIVE patients expired, FIVE migrated and FIVE recovered completely meanwhile 20 more new cases were also detected Calculate  Define Incidence, Prevalence and their relationship.  Incidence of D/s in 2013  Point prevalence at 1 Jan 2013  Period prevalence in 2013
+4. Describe in detail various uses of Epidemiology
+
+SHORT QUESTIONS
+1. Relative Risk & Attributable risk
+2. Attack Rate and Secondary Attack rate
+3. Incidence and Prevalence
+4. Elimination and Eradication
+5. Epidemiological Triad
+6. Positive Predictive Value and Negative Predictive value
+
+SESSION / YEAR: 2017-2019
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Researchers at the institute are interested in testing the hypothesis of exposure to smoking that resulted in occurrence of Pre term Birth. Please suggest a suitable study design and steps to conduct the same.
+2. If prevalence of any Disease in a community is 30%, if a test with Sensitivity of 80% and Specificity of 80% is applied to an apparently healthy population, please describe and calculate Predictive value and Positive and Negative.
+3. Discuss in detail steps to conduct Randomize Control Trial
+
+SHORT QUESTIONS
+1. Case Fatality Rate and Secondary Attack rate
+2. Incidence and Prevalence
+3. Relative Risk and Odds ration
+4. Elimination and Eradication
+5. Types of Prevention
+6. Epidemic and Endemic Diseases
+
+SESSION / YEAR: 2019-2021
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. There has been an outbreak of Hepatitis B in Jodhpur. Govt of Rajasthan has invited you as an expert to estimate the burden of Hepatitis B in Jodhpur in last three months. Suggest an appropriate Epidemiological Design, describe steps in conducting the same. Its advantages and disadvantages.
+2. Government of Gujarat wants to implement Point of Care diagnostics for early detection of Dengue in state. Govt has floated a tender for procurement of same, TWO major companies applied for the tender KIT A has a Sensitivity of 90% and Specificity of 80% while KIT B has a Sensitivity of 80% and Specificity of 90%. The prevalence of Dengue in Gujarat is 400/1000, As state epidemiologist you have been assigned to short list any one KIT based on technical justification. Kindly suggest which of the Kits you will shortlist with technical justification.
+3. The table below summarizes results of a study that was done to evaluate a new screening test for a certain disease. 1000 people were selected randomly from a given population and were given the diagnostic test and the observations were recorded as Disease Positive or Disease Negative. The observations are documented in the table below: Test Results Disease Status Disease Positive Disease Negative Test Positive 80 50 Test Negative 20 850  Define and Calculate Validity of Test Dec2019/CC1102
+
+SHORT QUESTIONS
+1. Relative Risk and Odd Ratio
+2. Prevalence and Incidence
+3. Control and Eradication
+4. Epidemiological Triad
+5. Matching and its Types
+6. Ecological Studies Dec2019/CC1102
+
+SESSION / YEAR: 2020-2022
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. A researcher wants to a study an association between exposure to Hand Washing and Mask and occurrence of COVID -19. Kindly suggest an appropriate study design and steps to conduct the same. And discuss its relative advantages and disadvantages.
+2. A group of researchers wants to estimate the prevalence of IgG Ab titre in city of Ahmedabad. Kindly suggest an appropriate study design and steps to conduct the same. As discuss its relative advantages and disadvantages.
+3. You are District Epidemiologist of District Thane, there is a reported outbreak of Bird Flu. You are requested for purchase of a Kit that will be used for screening of Bird flu amongst the bird handlers. Kindly define and calculate Sensitivity, Specificity and Predictive Values Positive and Negative for the observations from formative work Bird Flu Positive Bird Flu Negative Tested Positive by Kit 30 270 Tested Negative by Kit 20 380
+
+SHORT QUESTIONS
+1. Relative Risk and Attributable Risk
+2. Types of Prevention
+3. Control Elimination and Eradication
+4. Disease, Sickness and Illness
+5. Epidemiological triad
+6. Ecological Studies
+
+SESSION / YEAR: 2021-2023
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. You are a District Epidemiologist and you have generated a hypothesis that use of steroid and Industrial Oxygen during COVID treatment must have led to increased incidence of MUCOR-MYCOSIS (Black Fungus), to test the hypothesis, kindly suggest an appropriate Analytical study design and steps to conduct the same. Please discuss its relative advantages and disadvantages.
+2. Government of Gujarat has been contemplating to initiate a Point of Care Diagnostic facility of detection of COVID by Rapid Antigen test Kits. The department of Health and Family Welfare have invited tenders for the same. Two Companies with KIT A and KIT B have been short listed for the final award. If the prevalence of COVID is 10 % in Ahmedabad and the details of KIT are given below, please suggest which KIT you are going to suggest to be procured and why? KIT A KIT B Sensitivity 90% 80% Specificity 60% 90%
+3. There has been a debate across the actual burden of SAM Childs in Dev Bhoomi Dwarka district of Gujarat. You have been requested by the Department of Women and Child Development to assist in knowing the actual burden of SAM in district. Please suggest an appropriate descriptive study, steps to conduct the same and its advantages and dis advantages.
+
+SHORT QUESTIONS
+1. Relative Risk and Attributable Risk
+2. Incidence and Prevalence
+3. Control Elimination and Eradication
+4. Validity and reliability
+5. Tools of Epidemiological Measurement
+6. Uses of Epidemiology
+
+SESSION / YEAR: 2022-2024
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Discuss in detail various types of Preventive Methods in Epidemiology taking COVID- 19 as a case for example.
+2. A group of researchers at the institute wants to generate a hypothesis for possible risk factors, responsible for development of Mucormycosis. Suggest a suitable study design with relative advantages and disadvantages.
+3. You are a State Epidemiologist and the Government needs to procure a Kit that can be used by ASHA in filed for detection of Chikungunya. If there are two kits available in market namely Detect Chikungunya with Sensitivity of 90% and Specificity of 70% and another Kit named Spot Chick with Sensitivity of 70& and Specificity of 90%, if the prevalence of Chikungunya is 20% then please Define Predictive values of a Screening test & Suggest which kit should be procured with an appropriate justification.
+
+SHORT QUESTIONS
+1. Incidence, Prevalence and their relationship
+2. Predictive Values and Likelihood Ratio
+3. Control, Elimination and Eradication with suitable examples
+4. Odds Ratio and its interpretation
+5. Epidemic, Endemic and Pandemic Diseases
+6. Tools of Epidemiological Measurement
+
+SESSION / YEAR: 2023-2025
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. A researcher wants to a study an association between exposure to Hand Washing and Mask and occurrence of COVID -19. Kindly suggest an appropriate study design and steps to conduct the same. And discuss its relative advantages and disadvantages.
+2. There has been a debate across the actual burden of SAM Childs in Dev Bhoomi Dwarka district of Gujarat. You have been requested by the Department of Women and Child Development to assist in knowing the actual burden of SAM in district. Please suggest an appropriate descriptive study, steps to conduct the same and its advantages and dis advantages.
+3. You are a State Epidemiologist and the Government needs to procure a Kit that can be used by ASHA in filed for detection of Chikungunya. If there are two kits available in market namely Detect Chikungunya with Sensitivity of 90% and Specificity of 70% and another Kit named Spot Chick with Sensitivity of 70& and Specificity of 90%, if the prevalence of Chikungunya is 20% then please Define Predictive values of a Screening test & Suggest which kit should be procured with an appropriate justification.
+
+SHORT QUESTIONS
+1. Relative Risk and Attributable Risk
+2. Explain Control, Elimination and Eradication with example
+3. Uses of Epidemiology
+4. Explain the terms with examples - Epidemic, Endemic and Pandemic Diseases
+5. Tools of measurement in epidemiology
+6. Explain the Predictive value and likelihood ratio
+
+SESSION / YEAR: 2024-2026
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. You are tasked with investigating a potential association between exposure to a new dietary habit and the risk of developing a chronic disease in a specific population. a. Define analytical epidemiological study designs and explain their role in identifying associations between exposures and outcomes. Compare and contrast the key types of analytical study designs, highlighting their strengths and limitations in addressing causal relationships. b. Choose an appropriate analytical study design to investigate the given association. Justify your choice based on the study's objectives and the feasibility of data collection. Discuss the potential biases and confounding factors that could affect your study findings and strategies to minimize them. Evaluate the ethical considerations relevant to your chosen study design. Illustrate your responses with examples to demonstrate a clear understanding of various types of analytical epidemiological study designs.
+2. An outbreak of a novel respiratory infectious disease has been reported in an urban area. Investigate whether close contact with infected individuals and poor ventilation are associated with its spread. a. Define association and causation in the context of infectious diseases and their significance in outbreak investigations. Explain measures like relative risk and odds ratio to assess associations. b. Propose a study design to investigate the risk factors and justify your choice. Discuss how study findings can inform public health interventions.
+3. A researcher aims to investigate the association between physical inactivity and the risk of developing type 2 diabetes in a middle-aged population. a. Define the concepts of odds ratio (OR), relative risk (RR), and population attributable risk (PAR) in epidemiology. b. Discuss how these measures can be used to assess the strength of association between physical inactivity and type 2 diabetes. c. Discuss how findings derived from these measures can inform public health strategies to reduce the burden of type 2 diabetes.
+
+SHORT QUESTIONS
+1. Relative Risk and Attributable Risk
+2. Incidence, Prevalence and their relationship
+3. Explain the Predictive value and likelihood ratio
+4. Control, Elimination and Eradication with suitable examples
+5. Epidemic, Endemic and Pandemic Diseases
+6. Dynamics of disease transmission
+
+========================================================================================
+SUBJECT 03: Social and Behavioural Sciences in Health
+SOURCE PDF: 03 - Social and Behavioural Sciences in Health.pdf
+TOTAL QUESTIONS: 92
+========================================================================================
+
+SESSION / YEAR: 2015-2017
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Elaborate any one model of health seeking. Describe its strength and limitations
+2. Many people who have knowledge of ill effects of tobacco continue to smoke or chew tobacco. How do you explain this?
+3. Discuss the three overarching recommendations of report of ‘The Commission on Social Determinants of Health'.
+4. Elucidate with examples the relevance of 'Social and Behavioral Sciences' in public health highlighting individual, social, economic, and political dimensions.
+5. Bring out the social factors that influence female age at marriage in India. Use ‘force field analysis’ to present your answer.
+6. Why and how study of human behaviour is different from the study of natural world?
+
+SHORT QUESTIONS
+1. Importance of attitude as a concept in public health
+2. Give two examples to illustrate how social norms influence our health / illness related behaviours
+3. Write notes on ‘pile sorting’ as a participatory method.
+4. What do you mean by risk behaviour? Explain with an example
+5. Enlist different stages of health seeking given by Igun.
+6. Name three different types of ‘authority’ with an example for each
+7. How do you see gender as a form of social stratification? Explain.
+8. Explain the term medical pluralism
+9. Write a note on KAP studies. Name any one key limitation of this type of studies
+10. Enlist three social science concepts brought out by the movie ‘12 angry men’. Illustrate with instances in the movie.
+11. Providing public health service to citizens is an obligation of State – explain
+12. Write a short note on contributions of any one of the thinkers given below: A. Thomas McKeown B. Sir Michael Marmot C. Nancy Fraser D. Nancy Krieger E. Amartya Sen
+
+SESSION / YEAR: 2016-2018
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Explain the following sociological theories and their relevance in Public Health- - Conflict Theory - Functionalism - Symbolic Interactionism
+2. Explain the following health behavior theories with examples- - Stages of Change - Health Belief Model - Theory of Planned Action
+3. Define culture. How does culture mitigate with the health and nutritional status of communities?
+4. Explain the concept of Social Stratification. What is its relevance in Public Health? How did social stratification mitigate the health seeking pathway in case of Rakku?
+
+SHORT QUESTIONS
+1. Explain various dimensions of health? Give an example of each.
+2. Write a short note on Thomas McKeown’s thesis and his arguments on population growth.
+3. Write a note on biomedical and social sciences approach to health.
+4. Write a short note on Poverty and Exclusion.
+5. What is Medical Pluralism? Explain.
+6. Write a short note on medicalization of health. Give example.
+7. Explain the concept of caste and class. How is one different from the other? How can they influence the health of an individual?
+8. Explain the concept of Stigma. What is its relevance in Public Health? Give Example.
+
+SESSION / YEAR: 2017-2019
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Explain the following sociological theories and their relevance in Public Health-  Conflict Theory  Functionalism  Symbolic Interactionism
+2. Explain the concept of Social Stratification. What is its relevance in Public Health? How did social stratification mitigate the health seeking pathway in case of Rakku?
+3. Explain the multidimensional nature of poverty. How is poverty measured? Explain poverty-health interplay.
+
+SHORT QUESTIONS
+1. Explain Talcott Parson’s concept of “Sick Role” in your own words.
+2. Explain Dahlgren and Whitehead’s framework of determinants of health.
+3. Explain the concept of caste and class. How is one different from the other? How can they influence the health of an individual?
+4. Explain medicalization and factors that contribute to it. Give example.
+5. How are stigma, exclusion, poverty related? Explain using an example.
+6. Write a short note on Health Belief Model. Explain with example.
+
+SESSION / YEAR: 2019-2021
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. The health system is a part of the larger society. It reproduces and reflects the material and ideological contradictions prevalent in the society. An implanted change in the health system without the society undergoing corresponding changes cannot be a socially sustainable one. Write a critical note, appreciating or questioning this point.
+2. Explain the concept of Social Stratification. What is its relevance in Public Health? How did social stratification mitigate the health seeking pathway in case of Rakku?
+3. Explain the following sociological theories and their relevance in Public Health- - Conflict Theory - Functionalism - Symbolic Interactionism
+
+SHORT QUESTIONS
+1. What is a symbol in symbolic interactionism? Explain how symbols help in creating shared meanings.
+2. How is stigma, exclusion, poverty related? Explain using an example.
+3. Write a short note on Health Belief Model. Explain with example.
+4. Explain the difference between illness, disease, sickness, health & wellbeing.
+5. Explain the various dimensions of health? Give an example of each.
+6. Write a note on scope of social and behavioral sciences in public health. Dec2019/CC1103
+
+SESSION / YEAR: 2020-2022
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Analyse the problem of increasing road traffic accidents using the social ecological model
+2. Analyse the death of Rakku's baby, using an intersectionality lens
+3. Do organizations and the state (government) meant to work for the general good of public always do so? Argue based on examples from the movie “And the band played on"
+
+SHORT QUESTIONS
+1. The concept of caste and class. How is one different from the other? How can they influence the health of an individual?
+2. How can the knowledge of health behaviour theories help the process of health promotion in various ways?
+3. Who faced stigma in the movie "And the band played on" and in what ways?
+4. Differentiate between illness, sick role, disease, health and wellbeing.
+5. Briefly explain the capability and functioning approach of Amartya Sen.
+6. Explain how social cognition theory can be used for diet modification?
+
+SESSION / YEAR: 2021-2023
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. What were the web of causes for the death of Rakku’s baby?
+2. In a typical hospital, support staff (Ayahs, sweepers, ward boys, health assistants who provide bedside care to patients) work under the direct supervision of nurses. As hospital administrator you have observed that there is a lot of turnover of the support staff in your hospital. They leave within a few months, their behaviour is not professional. You are tired of hiring new staff and training them again and again. What underlying factors related to the social background of the support staff, and the nurses could be responsible for their attitudes towards work and towards each other? Suggest five things to address these underlying factors to retain support staff for longer periods of time.
+3. Why is it important to understand and intervene for social determinants of health to achieve the goals for health for all?
+
+SHORT QUESTIONS
+1. How are stigma, exclusion, poverty related? Explain using an example.
+2. Compare & contrast biomedical and social sciences approach to illness & health.
+3. Write a short note on Health Belief Model. Explain with example.
+4. What do you think is the importance of understanding the social determinants of health for health prevention, promotion and treatment?
+5. What underlying factors could be behind the fact that the majority of the nurses are women?
+6. What is intersectionality. Explain with an example
+
+SESSION / YEAR: 2022-2024
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. The health system is a part of the larger society. It reproduces and reflects the material and ideological contradictions prevalent in the society. An implanted change in the health system without the society undergoing corresponding changes cannot be a socially sustainable one. Write a critical note, appreciating or questioning this point.
+2. Answer the questions for this case: The only earning member of the family developed fever. He avoided going to any doctor for some days and drank ‘kadha’ at home. It helped him with some symptoms but, weakness and fever persisted. He went to a pharmacy from where he got some pain relief tablets and Paracetamol. When, he was not getting better, he went to a neighborhood doctor next in the evening, fearing losing a day’s wage if he went far. The doctor gave him IV (Batla) for ‘shakti’ which made him feel little better. The next day at work however, he collapsed. Colleagues took him to a private clinic where he was prescribed some medicines. The friends purchased the entire recommended doze of medicine by contributing money. But, the next day, he didn’t turn up for work and day after became very weak. So, they took him to government hospital where his blood test revealed that he was suffering from Malaria. a. Why do you think there was a delay in care seeking and what were the barriers? b. Why do you think the private doctors did not prescribe blood tests? c. Why do you think the patient avoid going to the government hospital in the first place? d. What are your recommendations for improving malaria programme?
+3. Please read the case and discuss systematically in light of what we have learnt about the social determinants of health In the third trimester, during Mamta session, Female Health Worker realizes that the pregnant woman is severely anemic and requires iron sucrose treatment. Medical officer of a nearby Primary Health Centre is not confident to administer as there is some possibility of reaction. He instead bashes the woman for not taking IFA. Also, ASHA gets blame as she couldn’t ensure compliance. On their way back, ASHA gets to know-the young woman forgets sometimes to take the tablets, there is lot of work. Also, there is constipation and she can’t have it. There is a common toilet and she is ashamed to release herself once everyone gets up. ASHA explains normal side-effects, when should IFA be consumed (not with tea) but, with sour things etc. When they reach home, mother in law’s behaviour indicates the lowest position of daughter in law. She eats the last, often no veggies, fruits. There is fear of getting the child dark skinned if IFA is consumed.
+
+SHORT QUESTIONS
+1. Explain the difference between Illness, disease, sickness, Health & wellbeing.
+2. Learning from the discussions in class why do you think women are the promoters of patriarchy in the family? Is it related to power?
+3. From your understanding of the theory of symbolic interactionism, give one example of a social symbol which is an outcome of shared meanings in the Indian society and briefly describe it.
+4. Explain how social cognition theory can be used for diet modification.
+5. Explain how inequality is a symptom of inequity in a given society.
+6. What is medicalization? Give two examples
+
+SESSION / YEAR: 2023-2025
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Outline the main determinants of health in relation to the Dahlgren and Whitehead model.
+2. Provide a critical and comparative account of biomedical and social science approaches to health and illness.
+3. Discuss the relation between health inequalities and access to various kinds of capabilities.
+
+SHORT QUESTIONS
+1. How would you relate intersectionality to women’s health in India?
+2. What is Social Exclusion? How does it impact the health of marginalized groups in India?
+3. Define Social Stratification. What are the main types of social stratification?
+4. What is medicalization? Provide two relevant examples in this regard.
+5. What is Patriarchy? How does it shape health inequalities in society?
+
+SESSION / YEAR: 2024-2026
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Answer the questions for this case: The only earning member of the family developed fever. He avoided going to any doctor for some days and drank ‘kadha’ at home. It helped him with some symptoms but, weakness and fever persisted. He went to a pharmacy from where he got some pain relief tablets and Paracetamol. When, he was not getting better, he went to a neighborhood doctor next in the evening, fearing losing a day’s wage if he went far. The doctor gave him IV (Batla) for ‘shakti’ which made him feel little better. The next day at work however, he collapsed. Colleagues took him to a private clinic where he was prescribed some medicines. The friends purchased the entire recommended doze of medicine by contributing money. But, the next day, he didn’t turn up for work and day after became very weak. So, they took him to government hospital where his blood test revealed that he was suffering from Malaria. a. Why do you think there was a delay in care seeking and what were the barriers? b. Why do you think the private doctors did not prescribe blood tests? c. Why do you think the patient avoid going to the government hospital in the first place? d. What are your recommendations for improving malaria programme?
+2. Outline the main determinants of health in relation to the Dahlgren and Whitehead model.
+3. Provide a critical and comparative account of biomedical and social science approaches to health and illness.
+
+SHORT QUESTIONS
+1. Differentiate between illness, sick role, disease, health, and wellbeing.
+2. From your understanding of the theory of symbolic interactionism, give one example of a social symbol which is an outcome of shared meanings in the Indian society and briefly describe it.
+3. The concept of caste and class. How is one different from the other? How can they influence the health of an individual?
+4. What is medicalization? Provide two relevant examples in this regard.
+5. What is Patriarchy? How does it shape health inequalities in society?
+6. What is Social Exclusion? How does it impact the health of marginalized groups in India?
+
+========================================================================================
+SUBJECT 04: Environmental and Occupational Health
+SOURCE PDF: 04 - Environmental and Occupational Health.pdf
+TOTAL QUESTIONS: 120
+========================================================================================
+
+SESSION / YEAR: 2015-2017
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Biomedical waste – its importance in environmental pollution, classification and suggested practices for safe disposal
+2. Air pollution – Sources, Health effects and suggested mitigation measures
+3. Climate change- Causes, effects and suggested control measures
+1. Explain Noise induced hearing loss in brief. What is temporary threshold shift?
+2. How do you classify various occupational health hazards? What are the ways by which a hazardous chemical can enter the human body?
+3. Describe the Occupational health challenges of working with unorganized sector.
+
+SHORT QUESTIONS
+1. Short notes: (Any two): a) Water purification in small scale b) Greenhouse effect c) Two key legislations related to environment having significant impact on health d) Slow sand filtration for water purification e) Methods of disposal of Municipal solid waste
+1. Indian Factories act.
+2. Silicosis.
+3. Ergonomic issues in office set up
+4. Periodic medical examination
+5. Heat Stress
+6. Double burden of work for Women
+
+SESSION / YEAR: 2016-2018
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Climate change- major causes and effects on human health
+2. Biomedical waste- management & disposal Part-2
+1. Explain Noise induced hearing loss in brief. What is temporary threshold shift?
+2. How do you classify various occupational health hazards? What are the ways by which a hazardous chemical can enter the human body? Part-3
+1. Describe the conceptual framework proposed by Galea et al that encompasses the various factors influencing health and non-health outcomes of urban living.
+2. List the 9 core strategies underlying the Urban Health Delivery model as envisaged by the National Health Mission. Discuss any 3 of them.
+
+SHORT QUESTIONS
+1. Slow sand filtration for water purification
+2. Noise pollution
+3. Biological indicators of water quality Part-2
+1. Occupational health challenges of working with unorganized sector.
+2. Ergonomic issues in office set up
+3. Double burden of work for Women Part-3
+1. Physical urban environment leads to equitable and healthy urban lifestyles
+2. Ten key urban public health challenges (list)
+3. Pathways through which urban living impacts health (Mc Michael A J)
+
+SESSION / YEAR: 2017-2019
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Write in details, as per the latest guidelines, how will you manage Biomedical Waste generated in your institution
+2. What do you understand by “climate change”? Mention the different dimensions/ pathways through which climate change can affect health
+1. Describe the Occupational health challenges of working with unorganized sector.
+2. Name the important Occupational lung diseases seen in India. Describe the preventive measures for Occupational lung diseases.
+1. List the 9 core strategies underlying the Urban Health Delivery model as envisaged by the National Health Mission. Discuss any 3 of them.
+2. List ten key urban public health challenges. Discuss possible responses to these.
+
+SHORT QUESTIONS
+1. Briefly describe surveillance of water quality
+2. Briefly describe the steps of Rapid Sand filtration for purification of water
+3. Enumerate the various population groups who are vulnerable towards climate change and explain how they are vulnerable PART-2
+1. Silicosis.
+2. Noise Induced Hearing Loss
+3. Describe the ways by which a hazardous chemical can enter the human body PART-3
+1. Mahila Arogya Samitis
+2. Slums (definitions, proportion of population)
+3. Tiers of cities by Indian Census
+
+SESSION / YEAR: 2019-2021
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Explain principles of occupational health with suitable examples.
+2. What is ergonomics? Explain how Ergonomics can be used to safeguard health of knowledge workers.
+1. Describe the health delivery model for urban India as proposed by the National Health Mission. (Refer to infrastructure, manpower by sizes of cities, sizes of populations. Draw diagram/s. Do mention MAS -- community involvement mechanism)
+2. Describe the conceptual framework proposed by Galea et al that encompasses the various factors influencing health and non-health outcomes of urban living.
+
+SHORT QUESTIONS
+1. Importance of Industrial Hygiene
+2. Noise Induced Hearing Loss
+3. Minamata disease Dec2019/CC1104 PTO PART-2
+1. Slums (definitions, proportion of population)
+2. List ten key urban public health challenges
+3. Physical urban environment -- design and plan Dec2019/CC1104
+
+SESSION / YEAR: 2020-2022
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Describe Biomedical waste management. Explain briefly how to manage bio medical waste in relation to COVID-19?
+2. Why children are more adversely affected by air pollution? Also, give some examples and suggest measures to prevent indoor air pollution.
+1. What are the principles of occupational health? Explain with suitable examples.
+2. Explain the measures that should be taken before allowing all students to return to the institute campus in the current Covid situation.
+1. List the 9 core strategies underlying the Urban Health Delivery model as envisaged by the National Health Mission. Discuss any 3 of them.
+2. What are the roles and responsibilities of Urban ASHAs? Describe the formation of Mahila Arogya Samitees and their role in the Urban Health care system.
+
+SHORT QUESTIONS
+1. Define overcrowding in terms of housing and explain the criteria for overcrowding in housing?
+2. Explain briefly climate change and its effect on health?
+3. Explain briefly composting and its types? Part-II
+1. ESIS Scheme
+2. Occupational health issues in unorganised sector
+3. Silicosis Part-III
+1. List five key urban public health challenges and possible responses to these.
+2. Slums
+3. Municipal and market determinants of urban health (Hint: See the Framework by Galea et al)
+
+SESSION / YEAR: 2021-2023
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Define air pollution? Mention sources of air pollution and its effects on health?
+2. Define solid waste? Explain solid waste management in brief and its challenges?
+1. What are various ways hazardous agents can enter human body? Explain with examples.
+2. Explain principles of occupational health with examples.
+1. What are the core strategies to deliver health care to India's urban populations? Elaborate upon (i) the norms set for delivering urban health care and (ii) community processes for the same.
+2. How does Physical Environment affect Urban health (McMichael's model is one pathway to explain this)? Which are the urban design principles that can mitigate these effects? Explain in detail two of these principles.
+
+SHORT QUESTIONS
+1. Define overcrowding in terms of housing and explain the criteria for overcrowding in housing?
+2. Explain briefly climate change and its effect on health?
+3. Mention Chemical and Biological parameters for water quality assessment?
+4. Explain briefly composting and its types? Part-2
+1. Prevention of Covid19 at workplace
+2. Biological Hazards
+3. Occupational health issues in unorganised sector
+4. Duties of Factory Medical Officer Part-3
+1. Urban penalty in India
+2. Municipal determinants of urban health
+3. Effect of global and national policies/changes on urban populations
+4. Mahila Arogya Samitis
+
+SESSION / YEAR: 2022-2024
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Describe Biomedical waste management. Explain briefly how to manage bio medical waste?
+2. Discuss solid waste Management in Indian cities?
+1. What are the health effects of exposure to high Noise among industrial workers? Explain Noise induced hearing loss and it’s prevention.
+2. What are various ways a hazardous chemical agent can enter human body? Explain with examples.
+1. Draw the conceptual framework proposed by Galea et al that encompasses the various factors influencing health and non-health outcomes of urban living. Describe how municipal level factors affect urban health.
+2. List the ways in which designing and planning of physical urban environment can promote or harm equitable and healthy urban lifestyles, as proposed by Smit et al. Discuss two of these with examples.
+
+SHORT QUESTIONS
+1. Explain briefly health effects of air pollution?
+2. Explain briefly climate change and its effect on health?
+3. Explain briefly purification of water at household level? Part-2
+1. Principles of occupational health
+2. Prevention of Covid19 at workplace
+3. Occupational health issues in unorganized sector Part-3
+1. Urban penalty and advantage
+2. Mahila Arogya Samiti
+3. Classes/Tiers of cities by Indian Census
+
+SESSION / YEAR: 2023-2025
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Discuss impact of climate change on health of populations?
+2. Discuss solid waste management in urban areas?
+1. Discuss occupational hazards to workers engaged in food delivery service in Urban areas?
+2. Discuss benefits to employees in Employee State Insurance Scheme?
+
+SHORT QUESTIONS
+1. How to assess household overcrowding?
+2. Household level purification of water?
+3. Briefly discuss Biomedical waste management? Part-II
+1. Measures to control noise pollution?
+2. How ergonomics can facilitate health or comfort in work environment?
+3. Occupational health in unorganized sector?
+
+SESSION / YEAR: 2024-2026
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Describe the sources of Air Pollution in general and strategies to reduce indoor air pollution.
+2. Describe about solid waste management in urban areas.
+3. Describe about Employee State Insurance Scheme (ESIS) and benefits covered under ESIS.
+
+SHORT QUESTIONS
+1. Describe criteria for overcrowding in house.
+2. Brief describe about Bio Medical Waste Management.
+3. Describe Asbestosis in brief.
+4. Write a note on EH & SDG.
+5. Describe about health hazards to workers engaged in small industries in urban area.
+6. Define and describe Ergonomics’ in brief.
+
+========================================================================================
+SUBJECT 05: Health Policy and Health Systems
+SOURCE PDF: 05 - Health Policy and Health Systems.pdf
+TOTAL QUESTIONS: 27
+========================================================================================
+
+SESSION / YEAR: 2015-2017
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Discuss factors that influence public policy making using the policy triangle.
+2. Distinguish between rational model and incremental model of policy making.
+3. Discuss different pathways of international influence on policymaking in India with an example each.
+4. Discuss various aspects and ways for Universal Health Care suggested by High Level Expert Group (HLEG) report.
+5. Compare and contrast the utilization based, need based, and effective demand based approaches for determining the requirement of health resources.
+6. Describe systems approach to analyzing health policy. By taking a suitable example comment on its applicability to Indian healthcare system.
+
+SHORT QUESTIONS
+1. Enumerate different ways private sector can be involved in provision of healthcare for all by the Indian government.
+2. Describe pros and cons of health system of one country in the documentary “Sick around the world”.
+3. Describe the concept of ex-ante and ex-post analysis of health policy with respect to their pros and cons.
+4. As public health policy makers our motto should be “Greatest good for the greatest number of people”. By taking suitable example comment on the pros and cons of the above statement.
+5. Describe benchmarking based approach to determining health resource requirement.
+6. Define Universal Health Care.
+7. Define governance.
+8. Enumerate different types of policies with an example each.
+9. Write names of 5 important committees that shaped health policies in India.
+10. Describe contextual factors influencing policy making in the policy triangle.
+11. Write names of models of policy making process and one characteristic of each process.
+12. Describe issues of public private partnership for health in India.
+
+SESSION / YEAR: 2022-2024
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Indian government needs to spend much more money to reduce burden on Common mand of the country. Agree or Disagree. Discuss with your arguments
+2. Compare and contrast approaches for determining the requirement of health resources. Discuss pros and cons of each of the approach.
+3. Explain the elements of Health Policy Analysis. Support your answer by taking suitable examples.
+
+SHORT QUESTIONS
+1. Forces driving Health Sector Reforms
+2. Role of World Bank in Health policy
+3. Describe the concept of ex-ante and ex-post analysis of health policy with respect to their focus, and pros and cons.
+4. As public health policy makers our motto should be “Greatest good for the greatest number of people”. By taking suitable example comment on the pros and cons of the above statement.
+5. PMJAY of Ayushman Bharat
+6. Health and Wellness Centre
+
+========================================================================================
+SUBJECT 06: Health Management-1
+SOURCE PDF: 06 - Health Management-1.pdf
+TOTAL QUESTIONS: 116
+========================================================================================
+
+SESSION / YEAR: 2015-2017
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Imagine that you are a senior level manager in an organization and have recently recruited a Project Manager. The Project manager you have recruited will take time to manage and lead the existing Project team. The newly recruited Project Manager in general uses Delegating leadership style. Somehow as a Senior Manager you feel that the leadership style that your Project Manager is using is not the most appropriate style as the team he is leading is low on all the three dimensions of maturity/development level. As a senior manager this worries you because you have already observed that the project team is demotivated and losing interest in work. As a Senior Manager what leadership style would you suggest him to use and why? In answering the above questions use situational theory of leadership and explain it briefly?
+2. Differentiate between extrinsic and intrinsic motivation, and suggest how it is linked to Maslow’s need hierarchy theory and Hertzberg’s 2 factor theory of motivation. Give few examples of intrinsic and extrinsic factors of motivation?
+3. Draw Johari window of personal effectiveness and suggest ways to improve Personal Effectiveness?
+4. What are the most critical human resource challenges in public healthcare sector in managing Human Resource for Health? What recommendations do you have to address these challenges?
+5. Explain Weiner’s Model of Causal Attribution of success and failure and suggest how persistence takes place?
+6. Enumerate the steps involved in effective recruitment process?
+
+SHORT QUESTIONS
+1. What is Induction training? What are the benefits of offering induction program?
+2. What is meant by Job Description and why are these important?
+3. Explain the Expectancy theory of motivation.
+4. What are Key Performance Areas (KPAs)? How are KPAs identified and developed?
+5. What are the main lessons you learnt from the simulation exercise on Desert Survival?
+6. What are the main lessons you learnt from the simulation exercise on Broken Squares?
+7. Explain Maslow’s need hierarchy theory of motivation by giving examples of each need.
+8. Explain Mc Gregor’s Theory X and Y of motivation
+9. Explain the Work Motivation Model proposed by Smith & Cranny.
+10. Differentiate between office/position and role.
+11. Differentiate between Mangers and Leaders.
+12. Differentiate between Personnel function and Human Resource system.
+
+SESSION / YEAR: 2016-2018
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Differentiate between extrinsic and intrinsic motivation, and suggest how it is linked to Maslow’s need hierarchy theory and Hertzberg’s 2 factor theory of motivation. Give few examples of intrinsic and extrinsic factors of motivation?
+2. What are the most critical human resource challenges in public healthcare sector in managing Human Resource for Health? What recommendations do you have to address these challenges?
+3. Explain Weiner’s Model of Causal Attribution of success and failure and suggest how persistence takes place?
+4. What are Critical Attributes? Explain some common methods to identify Critical Attributes with their advantages and disadvantages?
+
+SHORT QUESTIONS
+1. Explain Mc Gregor’s Theory X and Y of motivation?
+2. What is meant by Job Description and why are these important?
+3. Explain the Expectancy theory of motivation.
+4. What are Key Performance Areas (KPAs)? How are KPAs identified and developed?
+5. Explain Maslow’s need hierarchy theory of motivation by giving examples of each need.
+6. Explain the Work Motivation Model proposed by Smith & Cranny.
+7. Differentiate between Managers and Leaders.
+8. Differentiate between Personnel function and Human Resource system.
+
+SESSION / YEAR: 2017-2019
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Briefly discuss Johari window of personal effectiveness and suggest ways to improve Personal Effectiveness?
+2. Differentiate between extrinsic and intrinsic motivation, and suggest how it is linked to Maslow’s need hierarchy theory and Hertzberg’s 2 factor theory of motivation. Give few examples of intrinsic and extrinsic factors of motivation?
+3. What is performance appraisal? How it helps employee in improving his/her performance?
+4. What are the most critical human resource challenges in public healthcare sector in managing Human Resource for Health? What recommendations do you have to address these challenges?
+
+SHORT QUESTIONS
+1. Personal factors in individual behavior
+2. What are the critical attributes? List any five important CA for the role of Program manager working with an organization on Maternal health and comment why these are important for the role?
+3. What is functional stress? Briefly discuss about its usefulness
+4. What is Induction training? What are the benefits of offering induction program?
+5. Values and its importance
+6. Differentiate between Personnel function and Human Resource system
+7. Communication Process in organizations
+8. Briefly discuss leadership styles.
+
+SESSION / YEAR: 2019-2021
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Explain the HR process in an organization with brief about each function.
+2. What are the methods of performance appraisals? Explain any three in detail.
+3. How motivational theories are significant to the field of public health? Explain any two theories of motivation with examples.
+4. Explain five phases of conflict process in organization.
+
+SHORT QUESTIONS
+1. Briefly mention about different types of interviews.
+2. Define job description and job specification.
+3. What are the main five phases of training and development in an organization?
+4. Explain three ego states of Transactional Analysis.
+5. What self-determination theory?
+6. What are the determinants of the personality?
+7. What are the factors which influence our perception?
+8. Briefly explain power tactics used in organizations.
+
+SESSION / YEAR: 2020-2022
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Assume that you are a manager of NGO working for disabled kids and largely dependent on volunteers to accomplish the goal of the various public health programs. How would you keep up the motivation of your volunteers? Which motivation theories can be useful and how?
+2. Assume your public health organization decides to implement BARS (Behavioral anchored rating scale) appraisal system for the middle level program/project officers in organization. Describe the advantages and disadvantages of BARS appraisals. Which is another option? Which one do you suggest?
+3. Covid crisis has changed the role and requirement of duties performed by front-line health workers. Hence, there is a requirement of a training to be given to them to make them ready for this modified role and responsibilities. Explain with ADDIE approach of training, and try to relate it with the context given.
+4. Explain the Attribution theory with examples.
+
+SHORT QUESTIONS
+1. If your subordinates are experts in their work but they are not willing to work and follow you. What kind of leadership style you should adapt? Which theory would you refer?
+2. Differentiate integrative and distributive bargaining. Which is better and why?
+3. If you are starting your own healthcare consulting firm, how would you find out the number of employees required? Which technique of demand forecasting you will use?
+4. If you are program manager of COVID vaccination initiative in rural district and your main duty is to spread awareness among community members and persuade them. What personality will be more suitable for such role, according to MBTI?
+5. Which power tactics are most and least effective? Why?
+6. While working in a group, what are the conflict stimulation techniques you would like to use to promote the idea generation and ethical values among group members?
+7. If your subordinate is defensive, how would you deal with him during the performance appraisal interview? Your main objective is to improve his performance for future projects.
+8. What Transitions in Conflict thought has occurred since last few decades?
+
+SESSION / YEAR: 2021-2023
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. How behavioral/people issues and HR functions are related? Explain with two examples.
+2. During pandemic, sub-district hospital faced severe shortage of nursing staff, since attrition went high. What are the options of recruitment methods? Which one will be more appropriate considering the time constraints and crisis period challenges?
+3. Covid crisis has changed the role and requirement of duties performed by front-line health workers. Hence, there is a requirement of a training to be given to them to make them ready for this modified role and responsibilities. Explain with ADDIE approach of training, and try to relate it with the context given.
+4. List the common decision biases and errors in decision making. Elaborate any two with examples.
+
+SHORT QUESTIONS
+1. List the performance appraisal methods. Explain any one with example.
+2. How job description is linked with other function of HRM?
+3. What Transitions in Conflict thought has occurred since last few decades?
+4. Explain the equity theory in brief.
+5. What creates dependency? Give an applied example.
+6. If your subordinates are experts in their work but they are not willing to work and follow you. What kind of leadership style you should adapt? Which theory would you refer?
+7. What is the difference between functional and dysfunctional conflict? What determines functionality?
+8. What are the different types of employee commitment?
+
+SESSION / YEAR: 2022-2024
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. District hospital faced severe shortage of specialist doctors, since attrition went high. What are the options of recruitment methods? Which one will be more appropriate considering the time constraints and crisis period?
+2. If you are program leader of COVID vaccination d initiative in rural district and your main duty is to spread awareness among community members and persuade them. What personality will be more suitable for such role, according to MBTI?
+3. Healthcare organization decides to implement BARS (Behavioral anchored rating scale) appraisal system for the middle level program/project officers in organization. Describe the advantages and disadvantages of BARS appraisals. Which is another option? Which one do you suggest?
+4. Covid crisis has changed the role and requirement of duties performed by front-line health workers. Hence, there is a requirement of a training to be given to them to make them ready for this modified role and responsibilities. Explain with ADDIE approach of training, and try to relate it with the context given.
+
+SHORT QUESTIONS
+1. In team effectiveness model, explain the process part.
+2. The outbreak has resulted in stigmatization to the extent that some patients are actually avoiding screening so as to run away from the tag of being a "COVID-19" patient. — Explain this statement with concepts of people perception.
+3. Core self-evaluation and self-efficacy - explain with examples.
+4. Explain any two HR demand forecasting techniques.
+5. What is the rational model of decision making? How is it different from bounded rationality?
+6. How procedural justice varies from distributive justice?
+7. What are the major HR issues faced by a manger in public health sector?
+8. Differentiate behavioral and situational interviews.
+
+SESSION / YEAR: 2023-2025
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. When individuals try to achieve only their own goals without considering the other’s concern, which conflict handling intention they carry? What are the other approaches? Which is the best and why?
+2. What is attribution theory? What are its implications in any health care organization? What are the associated errors/biases?
+3. Assume that you are Chief operating officer in hospital and managing team of doctors, Medical officers and nursing staff. As they lack motivation to do over-time work during crisis period, you need to motivate them using the approach suggested by expectancy theory. Explain what would you do?
+4. Explain the Path goal theory of leadership with suitable examples.
+5. Explain different types of training need assessment. Explain with relevant example.
+
+SHORT QUESTIONS
+1. How social loafing and large size of team may affect team effectiveness?
+2. What are the failures of Maslow's hierarchy of needs?
+3. Explain the dark triad of personality with relevant examples.
+4. How does leadership and power contrast?
+5. Explain the individual variables affecting political behavior in organization.
+6. What are the different types of commitment? Which is very common now days?
+7. Explain any two methods of performance management in brief
+8. Explain any two HR forecasting techniques.
+
+SESSION / YEAR: 2024-2026
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. One remotely located health center faced a severe Shortage of speacialists doctors, since attrition went high. What are the options of recruitment methods? Which one will be more appropriate considering the time and location constraints?
+2. How Fiedler Model of Leadership is different than situational leadership theory? Explain both the theories and compare the premise/assumptions based on which these two theories have been framed.
+3. How motivational theories are significant to the field of Public health? Explain any two theories of motivation with examples.
+4. If you are program leader of COVID vaccination initiative in rural district and your main duty is to spread awareness among community members and persuade them. What personality will be more suitable for such role, according to MBTI?
+5. There is a requirement of training to be given to Doctors to make them ready for administrative roles and responsibilities. Explain with ADDIE approach of training, and try to relate it with the context given.
+
+SHORT QUESTIONS
+1. Explain Maslow’s hierarchy of needs in brief.
+2. In team effectiveness model, explain the context part.
+3. Explain any two HR demand forecasting techniques.
+4. Differentiate behavioral and situational interviews.
+5. Briefly explain any two effective power tactics used in organization.
+6. What are the responses of employee’s job dissatisfaction?
+7. Differentiate between normative and affective commitment.
+8. How can we turn individuals into team player in organization?
+
+========================================================================================
+SUBJECT 07: Public Health Nutrition
+SOURCE PDF: 07 - Public Health Nutrition.pdf
+TOTAL QUESTIONS: 50
+========================================================================================
+
+SESSION / YEAR: 2015-2017
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Enumerate on the dual burden of malnutrition, its causes, consequences and potential solutions to tackle this public health issue.
+2. A Master of Public student needs to investigate the nutrient intakes of pregnant women. Describe the different methods used to assess food intakes, and the strength and limitations of these methods to be considered while choosing the method for data collection.
+3. Discuss the factors that influence food choices of adolescents.
+4. Young Indian women of reproductive age have a high prevalence of anemia. Discuss strategies to combat anemia in these groups.
+5. Comment on food safety issues in India.
+
+SHORT QUESTIONS
+1. Write short notes on the following National Nutrition Programmes: a. Integrated Child Development Services b. National Iron Plus Initiative
+2. Explain briefly about the balanced diet and dietary guidelines for Indians.
+3. Write short note on the nature of learning.
+4. Give the indicators for assessing infant and young child feeding practices.
+5. Outline the nutrition-sensitive and nutrition-specific interventions to address childhood malnutrition.
+6. Briefly explain the effects of carbohydrates in different foods on health.
+7. Discuss the conceptual framework of malnutrition developed by the UNICEF.
+8. Explain different anthropometric indices used to assess the nutritional status of children less than 5 years of age.
+9. Comment on the existing national nutrition policy in our country.
+
+SESSION / YEAR: 2016-2018
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Discuss the indicators of infant and young child feeding practices.
+2. You are organizing a community education programme for adolescent girls in your area. What are the important factors you would focus to improve the nutritional status of adolescence? Develop an outline for this education programme.
+3. List various national nutrition programmes and discuss any one in detail.
+
+SHORT QUESTIONS
+1. Mechanism of lactation
+2. Common nutritional issues in older adults
+3. Differentiate between diet history and 24-hour recall
+4. Bioavailability of minerals
+5. Dietary guidelines for Indians
+6. Role of policymakers, food handlers and consumers to ensure food safety
+
+SESSION / YEAR: 2017-2019
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. As a national nutrition programme manager you are asked to plan a rapid assessment of the nutritional status of the population (nationally representative sample) with limited budget, list various methods that can be used and mention which method you would select and why (you may choose one or more method, however consider the advantages and disadvantages of each method given the context).
+2. India is passing through the phase of economic and nutrition transition with widespread malnutrition, largely as a result of dietary inadequacy and unhealthy lifestyles. List the 15 dietary guidelines that would help us to achieve the objective of providing optimal nutrition to the population.
+3. Explain the WHO’s recommended actions (double-duty) that have the potential to improve nutrition outcomes across the spectrum of malnutrition, through integrated initiatives, policies and programmes.
+
+SHORT QUESTIONS
+1. Describe nutrition specific and nutrition sensitive interventions (give examples)
+2. List the indicators for assessing infant and young child feeding practices
+3. Explain the components of any one national nutrition programme (objective, intervention, beneficiary, service delivery)
+4. Nutrition surveillance and monitoring system in India
+5. List the World Health Assembly global nutrition targets and give reason why we need to track the progress
+6. Based on your understanding of public health nutrition though this module, explain why nutrition is important for international development
+
+SESSION / YEAR: 2019-2021
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. The United Nations has declared 2016–2025 as the Decade of Action on Nutrition to alleviate malnutrition in all its forms. Food systems are one of the six priorities for achieving this goal. Explain how food-systems approach can play an important role in improving health and nutritional outcomes.
+2. Using the information from the table (below), draw 3 graphs for weight-for-age (WAZ), height-for-age (HAZ) and weight-for-height (WHZ) comparing the growth of children in Bangladesh and India. Write a brief narrative comparing the growth patterns. Country WAZ z scores, WHO Reference 1 month 12 24 36 48 59 months months months months months Bangladesh -1.13 -1.73 -2.02 -1.95 -1.94 -2.13 India -1.28 -1.55 -1.84 -1.87 -2.04 -2.07 Country HAZ z scores, WHO Reference 1 month 12 24 36 48 59 months months months months months Bangladesh -1.08 -1.67 -2.42 -2.32 -2.24 -2.38 India -0.78 -1.47 -2.07 -2.11 -2.30 -2.16 Country WHZ z scores, WHO Reference 1 month 12 24 36 48 59 months months months months months Bangladesh -0.45 -1.17 -1.04 -0.91 -0.89 -1.01 India -1.11 -1.08 -1.06 -0.96 -0.98 -1.16 Source: Victora et al, 2010 Dec 2019/CC1107
+3. According to UNICEF/WHO/World Bank Joint child malnutrition estimates, an estimated 50 million children suffer from acute malnutrition. Explain the WHO/UNICEF global strategy for management of acute malnutrition.
+
+SHORT QUESTIONS
+1. Planetary health diets
+2. Dietary reference values and food-based dietary guidelines
+3. Indicators for assessing infant and young child feeding practices
+4. Fetal programming hypothesis/Barker’s hypothesis
+5. Nutrition sensitive interventions
+6. Modifiable risk factors for diet-related non-communicable diseases Dec 2019/CC1107
+
+SESSION / YEAR: 2023-2025
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Discuss indicators for infant and young child feeding and design an action plan to improve the nutritional status of children in India.
+2. Describe the methods of Nutritional Status Assessment. As part of a research team studying the impact of school-going adolescents' nutritional status on their metabolic health, describe how you would assess their nutritional status.?
+3. Commentary on Anaemia Mukt Bharat
+
+SHORT QUESTIONS
+1. DoHAD Hypothesis
+2. Food Fortification
+3. Hidden Hunger
+4. Community-based Management of Acute Malnutrition (CMAM) in brief
+5. Food Systems
+6. Integrated Child Development Services (ICDS) and its role in delivering nutritional services.
+
+========================================================================================
+SUBJECT 08: Biostatistics-1
+SOURCE PDF: 08 - Biostatistics-1.pdf
+TOTAL QUESTIONS: 65
+========================================================================================
+
+SESSION / YEAR: 2016-2018
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. You are given a dataset on anthropometric variables of young children such as height, weight, weight-for-age, height-for-age, weight-for-height, children who are stunted (%), underweight (%), and wasted (%). a) List and discuss the measures of central tendencies and dispersion you would use to summarize the data. b) How do you determine the data normality of different variables in this dataset?
+2. The Department of Transportation in Georgia did a study a number of years ago that showed that the proportion of cars tested which failed to meet the state pollution standard was 0.37. The department would like to be able to say that the cars have improved since then. In a sample of n=100 cars more recently, the proportion not meeting the standards was 0.28. a) Are the cars better at meeting the standards than they used to be? b) Clearly state the null and alternative hypotheses, both in words and mathematically. c) Perform the hypothesis test at level  = 0.01, by computing the test statistic. d) Explain the meaning of your conclusion in words.
+3. ANOVA is a method of analyzing data from designed experiment wherein the objective is to compare three or more group means. Explain how as compared to “t” test, ANOVA protects the researchers against error inflation in situations warranting multiple comparisons of means.
+4. Given below are five observations collected in a study on two variables X and Y where X is the independent variable and Y is the dependent variable. Estimate the regression equation for the variables. X Y 5 70 6 69 4 85 6 74 8 65
+
+SHORT QUESTIONS
+1. Types of variables
+2. Role of a Biostatistician in public health
+3. Random variable and types of random variables
+4. Types of errors in statistics
+5. A simple liner regression equation can be expressed using the equation Y = B0 + B1 X. In the equation, explain the meaning of the terms B 0 and B1.
+6. An investigator wants to estimate the mean systolic blood pressure in children with congenital heart disease who are between the ages of 3 and 5. The investigator plans on using a 95% confidence interval (so Z=1.96) and wants a margin of error of 5 units. The standard deviation of systolic blood pressure is unknown, but the investigators conduct a literature search and find that the standard deviation of systolic blood pressures in children with other cardiac defects is between 15 and 20. To estimate the sample size, we consider the larger standard deviation in order to obtain the most conservative (largest) sample size. How many children should be enrolled in the study?
+7. Describe the steps in order of selection in SPSS for creating a cross-tabulation for two categorical variables e.g. Age_Category and disease_status.
+8. Write a short note explaining what is correlation analysis and interpretation of Pearson Product Moment Coefficient of Correlation.
+
+SESSION / YEAR: 2017-2019
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Suppose two doctors A and B, test all patients coming into a clinic for syphilis. Let the event A+ = {doctor A makes a positive diagnosis}, B+= {doctor B makes a positive diagnosis}. Suppose doctor A diagnoses 9% of all patients as positive, doctor B diagnoses 15% of all patients as positive, and both doctors diagnose 8% of all patients as positive. a. What is the probability of doctor A or doctor B making a positive diagnosis? b. What is the probability of doctor A making a positive diagnosis given doctor B has made a positive diagnosis? c. What is the probability of doctor B making a positive diagnosis given doctor A has made a positive diagnosis? d. What is the probability of doctor A and doctor B making a positive diagnosis if the two events A+ and B+ are independent?
+2. Following data is obtained by measuring weight in kg of subjects on two different diets. Diet 1 45, 52, 68, 48, 50, 60, 62 Diet 2 50, 60, 65, 53, 56, 67, 75 If the investigator is interested in finding the effect of each diet on weight, using an appropriate graph depict this.
+3. To assess the efficacy of new drug of blood cancer 10 patients were recruited in a clinical trial and randomly allocated to either new drug or placebo. After 4 week of follow-up their total leucocytes count (in thousand) was mentioned as:  Placebo group: 0.5, 1.2, 0.7, 0.8, 0.3  Treatment group: 1.2, 1.4, 1.1, 1.2, 0.8 Frame null and alternate hypothesis and use appropriate statistical test for hypothesis testing. (t8,1-0.05/2=2.31, t4,1-0.05/2=2.78, F5,5,1-0.05/2=5.05, Z1-0.05/2=1.96)
+
+SHORT QUESTIONS
+1. Explain major differences between interval and ratio scale with examples.
+2. Define point estimate and interval estimate. Give an example for each.
+3. A sample of 16 ten-year-old girls had a mean weight of 65.4 and a standard deviation of 13 pounds, respectively. Assuming normality, find the 90% confidence interval for μ and interpret it. (Z1-α/2=1.64, t1-α/2=1.75)
+4. A study was conducted to find out whether there is any difference in mean BMI (kg/m2) between men of age 30-39 years, 40-49 years and 50-59 years. Which test will be used in this situation? What are the assumptions to be satisfied for using this test?
+5. In a simple random sample of 110 unemployed male high-school dropouts between the ages of 15 and 20, inclusive, 75 stated that they were regular consumers of alcoholic beverages. Construct a 95 percent confidence interval for the population proportion of alcoholic beverage consumers among unemployed male high-school dropouts between the ages of 15 and 20and interpret it. (Z1-α/2=1.96, t1-α/2=1.75)
+6. Explain use of poisson distribution in public health and its probability function
+
+SESSION / YEAR: 2019-2021
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Suppose it is known that 5 percent of a certain population is colour blind. If a random sample of 5 people is drawn from this population, find the probability that, a. Exactly one is colour blind b. Exactly 4 are colour blind c. All the 5 are colour blind d. No one is colour blind
+2. Investigators examined subjects with hypertension and healthy control subjects. One of the variables of interest was the aortic stiffness index. In the 15 patients with hypertension, the mean aortic stiffness index was 18.2 with a standard deviation of 4.9. In the 30 control subjects, the mean aortic stiffness index was 8.4 with a standard deviation of 3.9. Both the populations are assumed to be having equal standard deviations. Are the two populations represented by these samples different with respect to mean aortic stiffness index at 5% level of significance. (critical value = 2.02)
+3. A simple random sample of 250 gynecologists were asked whether they have seen one or more pregnant women during the past year with elevated blood lead levels for which 25 said ‘yes’. Can we conclude from these data that in the sampled population, the percentage of gynecologists who have seen (during the past year) one or more pregnant women with elevated blood lead levels is different from 13% at 5% level of significance? (critical value = 1.96) Dec2019/CC1109
+
+SHORT QUESTIONS
+1. Explain quartiles, deciles and percentiles. Give the formula using which you obtain each of them.
+2. Following are the Body Mass Indices (BMI) of 9 individuals. 33.57, 27.78, 40.81, 38.34, 29.01, 47.78, 26.86, 54.33, 28.99 Construct a stem and leaf plot for the data
+3. Explain skewness and kurtosis.
+4. What is a hypothesis? Explain null and alternate hypotheses. Frame a null and an alternate hypothesis based on a research question.
+5. Construct an ANOVA table.
+6. As a part of a study, investigators assessed the maximal nitric oxide diffusion rate in a sample of 10 asthmatic school children. The mean maximal nitric oxide diffusion rate was found to be 3.8 with a standard deviation of 0.2. Assuming that the sample is taken from a population which follows normal distribution, a. Construct a 95% confidence interval for mean. (reliability coefficient = 2.26) b. Give the practical interpretation of the constructed confidence interval Dec2019/CC1109
+
+SESSION / YEAR: 2020-2022
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Provide null and alternative hypothesis for following research problem. A drug claims to reduce blood glucose level by 10 mg/dL. A mean glucose level of a 75 years old female is 130 mg/dL. Standard deviation σ is 32 mg/dL, with a population mean glucose as 143 mg/dL (N=100). Calculate z- statistics for the same.
+2. List and explain type of sampling techniques with appropriate examples.
+3. Suppose few patients have undergone testing for COVID-19. The test details are provided below; Patient Asymptomatic Symptomatic Tested Total demographic positive positive negative Male 112 234 572 918 Female 56 202 459 717 Total 168 436 1031 1635  Calculate probability of randomly choosing asymptomatic cases from total population.  Suppose we want to select an asymptomatic positive case from 1635 patients. What is the probability of we choosing a male case?  What is the probability of choosing an asymptomatic male from the total population?  What is the probability of choosing either an asymptomatic or symptomatic positive patient from the total population?  Probability of choosing neither male nor tested negative patient?
+
+SHORT QUESTIONS
+1. Explain following graph and label each arrow.
+2. A blood pressure values of 10 individuals is – 123, 134, 121, 145, 156, 135, 167, 132, 144, 166. Calculate skewness for the data and indicate the type of skewness.
+3. Define population and sample. Mention advantages and disadvantages of population- based studies.
+4. List factors affecting confidence interval.
+5. Explain dependent and independent variables with examples.
+6. Explain process of statistical estimation.
+
+SESSION / YEAR: 2021-2023
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. a. What are the different graphs used for summarizing quantitative data? (2.5) b. Explain any three in detail with example. (7.5)
+2. The number of cigarettes smoked by 10 individuals in a month is given below, 80, 90, 30, 32, 35, 20, 10, 15, 40, 60 Construct an error bar for the above data (10)
+3. The following are intraocular pressure (mm Hg) values recorded for a sample of 8 elderly subjects: 13.1, 11.9, 15, 10, 16.5, 20.3, 23.7, 21.2 a. Which test has to be use if we want to conclude from these data that the mean of the population from which the sample was drawn is greater than 14? (1) b. At α = 0.05, test the hypothesis. (7) c. What is your decision and conclusion if the critical value = 1.89? (2)
+
+SHORT QUESTIONS
+1. a. A sample of 40 ten-year-old girls had a mean weight of 30 and a standard deviation of 7 kg, respectively. Assuming normality, find the 90 percent confidence interval for mean weight of the population of ten-year-old girls. (reliability co-efficient=1.64) (2) b. What is the precision of the calculated interval (1) c. What is the standard error (1) d. Give practical interpretation of the computed interval. (1)
+2. a. Give an example for a situation in public health setting where you use a one- way ANOVA. (2) b. Frame the null and alternate hypotheses. (1) c. What are the assumptions to be satisfied for using a one-way ANOVA? (2)
+3. In a simple random sample of 120 unemployed male high-school dropouts between the ages of 21 and 27, inclusive, 80 stated that they were regular consumers of alcoholic beverages. Construct a 95 percent confidence interval for the population proportion. Also, interpret the constructed interval. (reliability co-efficient = 1.96) (5)
+4. a. In a certain population of hospital patients, the probability is .37 that a randomly selected patient will have heart disease. The probability is .82 that a patient with heart disease is a smoker. Also, the probability of finding a smoker is 0.6. What is the probability that a patient randomly selected from the population will be a smoker and have heart disease? (2.5) b. What is the probability that a randomly selected patient will have heart disease if he is a smoker? (2.5)
+5. Researchers wish to know if the data they have collected provide sufficient evidence to indicate a difference in mean serum uric acid levels between normal individuals and individuals with Down’s syndrome at 5% level of significance. The data consist of serum uric acid readings on 10 individuals with Down’s syndrome and 20 normal individuals. The means are 4 mg/100 ml and 3 mg/ 100 ml with variances equal to 0.9 and 1.2 respectively. a. Which test will be used to test the hypothesis? (1) b. Frame the null and alternate hypotheses. (1) c. Calculate the test statistic. (3)
+6. Define, a. p value (1) b. α and β (1) c. Sampling distribution of proportion (1) d. The two statistical hypotheses (1) e. Sampling distribution of mean (1)
+
+SESSION / YEAR: 2022-2024
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. The following are the heights in cm of a random sample of 20 boys with sickle cell disease at age two years: 84.4 89.2 89.0 81.9 85.4 85.0 85.5 85.0 84.1 86.3 82.5 80.7 83.4 89.8 85.4 80.6 80.0 81.3 87.0 78.5 1. Estimate the mean and standard deviation of the heights in this population of boys. 2. Now estimate the standard error of the sample mean and find a 95% confidence interval for the true mean height among these boys. What is the interpretation of the confidence interval? 3. Conduct a significance test for true height as 86.5 cm, using the t distribution. What is the P- value, and how is it interpreted? 4. If we had a bigger sample of boys (e.g. 100) with around the same standard deviation, would the standard error be larger or smaller? How would this affect the 95% confidence interval?
+2. The following is the health status of a random sample of 20 adolescent girls: Anemic Normal Normal Normal Normal Anemic Normal Normal Anemic Normal Normal Normal Normal Anemic Normal Normal Anemic Normal Normal Normal 1. Estimate the proportion of anemic adolescent girls in this population. 2. Now estimate the standard error of the sample proportion and find a 95% confidence interval for the true proportion of anemia among these adolescents. What is the interpretation of the confidence interval? 3. Conduct a significance test for true proportion as 0.5, using the t distribution. What is the P-value, and how is it interpreted? 4. If we had a bigger sample of adolescent girls (e.g. 100), would the standard error be larger or smaller? How would this affect the 95% confidence interval?
+3. Based on the data in the table, compare the proportion of anemia in males (group 1) and females (group 2) Observations 1 2 3 4 5 6 7 8 9 10 Health status Anemic Normal Normal Anemic Normal Anemic Normal Normal Anemic Normal Gender Male Female Male Female Male Male Male Female Female Male Observations 11 12 13 14 15 16 17 18 19 20 Health status Normal Normal Normal Normal Normal Normal Anemic Normal Normal Normal Gender Male Male Male Female Male Male Female Female Male Female 1. Calculate the proportions for the two groups 2. Calculate difference between the two proportions 3. Calculate the standard error of the difference between the two proportions 4. Calculate the CI for the difference between the two proportions 5. Interpret the findings
+
+SHORT QUESTIONS
+1. Identify and mention the measurement scale Variable 1 How satisfied are you with the institute ’s Very Unsatisfied - 1 canteen services? Unsatisfied - 2 Neutral - 3 Satisfied - 4 Very Satisfied - 5 2 What is your family income (monthly, 10,000 ─ 20,000 INR)? 20,001 ─ 30,000 30,001 ─ 40,000 3 Where do you live? City - 1 Town - 2 4 What is your weight (kg)? <50 51-70 71-90 > 90 5 What are your eating habits Vegetarian – 1 Non-vegetarian – 2
+2. Mention if the statement is true or false: 1. When investigating the relationship between two quantitative variables the first step is to always plot the data – scatter diagram 2. The correlation coefficient (r) always lies between 0 to 1 3. A statistic is a (usually unknown) value used to represent a certain population characteristic (mean, standard deviation, proportion) 4. A parameter (also called an estimator) is a quantity that is calculated from a sample of data 5. To use the z distribution, we need to know the true value of σ. In practice, σ is rarely known, so we use the sample SD, s, as an estimate of σ. This introduces some extra error and requires the use of the t distribution.
+3. Fill in the blanks 1. With ready access to statistical software, there is a temptation to jump straight into complex analyses. This should be avoided. An essential first step of an analysis is to __________ and ___________ the data. 2. Summarizing categorical variables is straightforward ─ count the number of observations in each category. These counts are called frequencies. They are often also presented as relative frequencies; that is as ___________ or _____________ of the total number of individuals. 3. A frequency distribution gives a general picture of the distribution of a ______________. 4. If p stands for probability, then:  p=1 mean there is ___________ chance of an event happening  p=0 mean there is ___________ chance of an event happening 5. In some quantitative research studies, samples of individuals are chosen by - Judgement (purposive) sampling, Accessibility (convenience) sampling, Quota sampling, and Haphazard sampling. These methods can be criticised because they allow the possibility of __________ .
+4. In 2015 the Government of India announced a target of reducing child malnutrition from 25% to 13% by the year 2020. The NFHS-5 survey (2019-20), where, out of children from 1000 households, 123 children were found malnourished (123/1000 =0.123 or 12.3%). We wanted to test if the true prevalence is 13% (hypothesis testing)? Upon investigating, we find the value of z as -0.66. Calculate the p value and interpret the findings (what can be said about the true prevalence of malnutrition?
+5. You are seeking answer to the question - Is delayed skeletal maturation associated with less growth? Based on the scatter diagram:  Write the regression equation (mentioning outcome and explanatory variables, and regression coefficients)  Predict the value of outcome variable for a given value of explanatory variable  Interpret the findings
+
+SESSION / YEAR: 2024-2026
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. A community-based trial of mHealth application aims to improve blood glucose level of diabetic patients through better drug adherence. With this intervention, HbA1C level in intervention arm reaches to mean level of 5.6 (1.3) as compared to mean HbA1C of 8.2 (2.1) in control arm. At 95% CI and 80% power of the study, find out the sample size for this study.
+2. The following table shows 1000 school applicants classified according to scores made on a college entrance examination and the quality of the school from which they graduated as rated by educators. Quality of School Score Poor Average Superior Total Low 105 60 55 220 Medium 70 175 145 390 High 25 65 300 390 Total 200 300 1000 Calculate the probability if an applicant picked at random from this group 1. Made a Low score in the examination 2. Graduated from a Superior school 3. Made a low score in the examination and Graduated from a superior School 4. Made a low score on the examination given that he/she graduated from a superior school 5. Made a high score or graduated from superior school
+3. The Incubation period of a sample of 10 persons infected with HIV are given below (in Years) 12.0 13.5 10.5 12.5 9.5 6.3 7.2 6.8 7.1 10.4 1. Compute sample Mean 2. Compute Sample Median 3. Compute Sample Standard Deviation
+
+SHORT QUESTIONS
+1. Enumerate the Probability sampling methods with their advantages and disadvantages.
+2. Write short note on Measurement scale of Data
+3. Draw a Normal Probability Curve (Rough Sketch) and discuss the properties of Normal Curve
+4. Explain any three differences between population and sample.
+5. Differentiate between Quantitative Data and Qualitative data and explain using suitable example.
+6. Explain Mesokurtic and Platykurtic distribution with graphical presentation.
+
+========================================================================================
+SUBJECT 09: Program Management
+SOURCE PDF: 09 - Program Management.pdf
+TOTAL QUESTIONS: 64
+========================================================================================
+
+SESSION / YEAR: 2020-2022
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Discuss primary, secondary and tertiary stakeholders. In relation to a COVID-19 preparedness plan for Anganwadi centres across Gujarat. List stakeholders for each type.
+2. Ahmedabad Municipal Corporation is implementing a capacity strengthening program of its health workers in managing H1N1 (Swine Flu) cases. The program involved training the health workers with an objective to reduce the incidence of H1N1 cases. World Bank has appointed you as a consultant to develop a M&E Plan for the program. Develop a log frame for the program (mention only one or two indicators for each of the components, which should reflect your understanding of the concept)
+3. Answer the following questions with either of the following options (Options: Impact, Outcome, Output, Process, Input, Indicators) a. Why is the project carried out? b. How the project will deliver? c. What will it require to deliver? d. How to assess success of the project? e. What will the project deliver? f. What the project aims to achieve?
+4. Discuss some key steps and criteria to conduct a utilization-focused evaluation.
+
+SHORT QUESTIONS
+1. Discuss the key factors for the success of mhealth.
+2. Listed are two non-SMART objectives. State what are the issues and convert those into SMART objectives. i. Non-SMART objective 1: Regular inspection of all registered clinics/labs/imaging centres under PC/PNDT Act to measure Sex Ratio at Birth. ii. Non-SMART objective 2: Number of outbreak of communicable disease to measure epidemic mortality.
+3. What are some of the common information flaws?
+4. What are some of the common information flaws?
+5. In the table below what can you say about the trend in growth faltering? Jan Feb Mar Apr May Jun Failure to gain weight 35 37 45 40 55 49 Children weighed 325 310 330 320 335 295
+6. Why should one have data definition and standardization in selecting indicators?
+7. Discuss some of the challenges of community-based monitoring.
+8. Use the checkpoints, activities, relationship and time estimates to draw a plan to strengthen the Mamta Diwas in a Health & Wellness Centre.
+
+SESSION / YEAR: 2021-2023
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. You are in-charge of a program that aims to work with mothers to inculcate behaviour change related to care of newborn. Program components include institutional delivery, hand washing, early initiation of breast-feeding, promoting spacing and permanent methods of family planning and promoting use of sanitary latrine. One month to your job the village health workers reported the following issues: a. Resistance from mother-in-laws related to new born care practices b. Resistance from husband related to family planning methods c. Resistance from community elders and religious leaders related to use of sanitary latrine and your program activities. The village health workers turned to you for help. Question List stakeholders for the above project, classify them and develop a stakeholder engagement plan
+2. To address the high rates of cardiac emergency and heart disease related morbidity and mortality, Ahmedabad took an initiative to equip each PHC with an ECG machine with trained staff and linkage to physician for expert guidance. The initiative aims to address early diagnosis of symptoms and prompt management especially thrombolysis. Question Discuss the goal, outcome and output for the programme. Also mention the indicators to measure each of this.
+3. How many targets and indicators are in SDG 3. Discuss any four targets and associated indicators.
+4. Discuss primary, secondary and tertiary stakeholders. In relation to a Dengue preparedness plan. List stakeholders for each type.
+
+SHORT QUESTIONS
+1. Write one indicator of Input, Process, Output, Outcome, and Impact of a hypothetical JE control project using appropriate strategies of your choice
+2. Discuss what you understand by composite index.
+3. Listed are two non-SMART objectives. State what are the issues and convert those into SMART objectives. i. Non-SMART objective 1: Regular inspection of all registered clinics/labs/imaging centres under PC/PNDT Act to measure Sex Ratio at Birth. ii. Non-SMART objective 2: Number of outbreak of communicable disease to measure epidemic mortality.
+4. What are some of the common information flaws?
+5. In the table below what can you say about the trend in growth faltering? Jan Feb Mar Apr May Jun Failure to gain weight 35 37 45 40 55 49 Children weighed 325 310 330 320 335 295
+6. Discuss the importance of data definition and standardization along with an example
+7. Discuss the relevance of GO-CARTS DRIVER in project planning and implementation
+8. Discuss steps that PHC MO can take to verify data quality?
+
+SESSION / YEAR: 2022-2024
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Fill the appropriate box with options given below [Program to reduce mortality due to ischemic heart disease] A. key issues B. Examples of Indicators Input Process Output Outcome Impact
+2. Discuss the different impact evaluation designs and the relative strengths and weakness of different designs.
+3. Discuss the situations in which Non-experimental designs are the best impact evaluation design options.
+4. Prepare a problem tree and objective tree for the following problem: Underweight children
+5. For the problem – Underweight children in XYZ district – prepare a stakeholder analysis [assume the role of PO ICDS of XYZ district]
+
+SHORT QUESTIONS
+1. Discuss the principles of GO-CARTS DRIVER
+2. Discuss the 5 steps of community monitoring process as envisaged under NHM
+3. What are some of the issues to monitor in village health report card?
+4. What are the advantage of RCT over quasi-experimental design?
+5. What are the threats to validity of an RCT?
+6. What are the limitations of a quasi-experimental study design?
+7. Discuss the differences between output and outcome.
+8. What is a theory of change?
+
+SESSION / YEAR: 2023-2025
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. What do you understand by Project Cycle Management? Explain the phases of a project cycle with appropriate examples. Use diagrams when necessary.
+2. What is a Results framework? Demonstrate a Results framework with an appropriate example.
+3. What is the difference between Monitoring and Evaluation? Explain clearly with an appropriate examples.
+4. The IIPH Gandhinagar University is planning to start a two year Masters level degree course in Public Health Nutrition. The relevant documents are being sent to the University Grants Commission for clearance. Conduct a Stakeholder analysis of the project. Include the following: a. A complete list of stakeholders b. Assessment of stakeholders based on Importance and Support c. Suggested Stakeholder management plan. Use a single table for the above.
+5. You have been assigned to develop a project plan aimed at reducing intimate partner violence in the state of Y. You are a resident of the state. You are part of a nodal NGO based in the state capital. The project will be implemented by district level NGOs and your organization will manage the entire project and provide technical assistance. Prepare a logical framework for the project. Ensure to list the following: a. The Goal b. Atleast 2 Purposes c. At least 2 Outputs for each Purpose d. Objectively verifiable indicators e. Means of verification f. Risks and Assumptions
+
+SHORT QUESTIONS
+1. Define Projects. What are the key features of a project?
+2. What are Key Process Indicators? How does it help the Public Health Manager?
+3. What is the difference between a Project and a Programme?
+4. What are indicators? What are the characteristics of a good indicator?
+5. How would you differentiate between a Risk and an Assumption? Give examples to explain.
+6. Explain key dimensions of data quality and factors affecting them.
+7. How can you prepare a weighted composite index?
+8. Discuss SMART objectives.
+9. Discuss the 80:20 principles in time management.
+
+SESSION / YEAR: 2024-2026
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Discuss some key steps and criteria to conduct a utilization-focused evaluation.
+2. Women and Child Development (WCD) department of Government of Gujarat (GoG) and Adani Foundation (AF) have partnered for making Narmada district free from malnutrition, through its flagship project- SuPoshan. The project aims to utilize a life cycle approach through a community-based platform to address the issues of undernutrition. The intervention includes village level health volunteers ─ SuPoshan Sangini. the institute has been engaged to conduct an impact evaluation of SuPoshan project. Specific objectives of the evaluation were: a. To assess the burden of wasting among children less than 5 years of age b. To identify factors associated for wasting among children less than 5 years of age c. To assess the burden of anaemia among WRA What sort of evaluation design do you recommend? Discuss your evaluation plan and some key indicators of assessment.
+3. Discuss the factors that threaten validity of impact evaluation. Also discuss the strategies for addressing each threat to validity.
+4. Discuss six differences between project output and outcomes.
+5. Discuss the ladders of community participation
+
+SHORT QUESTIONS
+1. How to identify a problem statement?
+2. Discuss the DOPA criteria of indicator selection.
+3. HMIS should be action led, not data led. What does the statement means?
+4. Discuss the 80:20 principle in time management.
+5. In SWOT analysis how are Strengths and weakness different from Opportunities and Threat?
+6. Discuss some of the tools for conducting Situation Analysis
+7. What constitutes a well-developed analytical question?
+8. Discuss some common mistakes in writing a problem statement.
+
+========================================================================================
+SUBJECT 10: Health Management-2
+SOURCE PDF: 10 - Health Management-2.pdf
+TOTAL QUESTIONS: 13
+========================================================================================
+
+SESSION / YEAR: 2016-2018
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Comment on the following statement [Note: reflect on what could be the contributing factors] Budget head Physical Financial Unit of Budget Target Actual Exp (lakhs) measure (lakhs) Hiring of Post graduate No. of Doctors MOs in CEmONC 185 75 138.75 79.50
+2. A doctor starts clinic with capital of Rs. 500,000  After few months he purchases furniture worth Rs. 30,000  He purchased medicines worth of Rs. 60,000  He purchased medicines worth Rs. 20,000 on credit  He sold medicines costing Rs. 5,000 on credit for Rs. 10,000  He paid rent Rs. 10,000 Prepare a balance sheet of the doctor as on 31st March of the year
+3. Discuss indirect cost and how do you account for such cost in costing of services. Part-2
+1. Define Logistics and Supply Chain Management and discuss key and support activities of Logistics.
+2. Define Quantification. Briefly discuss various steps involved in Quantification.
+
+SHORT QUESTIONS
+1. Discuss the utility of net present value in deciding on investing in a project.
+2. You have been hired as a consultant to conduct cost analysis of a PHC. You identified the following cost heads from the books of accounts. Classify them under capital and recurrent cost. Building, salaries of personnel, drugs and consumables, X-ray machine cost, furniture cost, building maintenance, telephone bills, electricity cost.
+3. Operating Margin Ratio is calculated as operating income over total operating revenues. A hospital has Rs. 3900 lakhs in operating income and Rs. 42,000 lakhs in total operating revenue. The industry standard is 0.04. Please give your inferences on the state of the hospital.
+4. Difference between receipts and payments is: a. Surplus b. Closing Balance c. Opening Balance d. Any of the above e. None of the above
+5. Discuss zero based budgeting. Part-2
+1. Define Essential Medicine and enlist 3 criteria for essential medicine selection?
+2. Briefly discuss various steps involved in Quantification?
+3. Please discuss purpose of assessing stock status and how to assess it, explain with example.
+
+========================================================================================
+SUBJECT 11: Reproductive and Child Health
+SOURCE PDF: 11 - Reproductive and Child Health.pdf
+TOTAL QUESTIONS: 36
+========================================================================================
+
+SESSION / YEAR: 2017-2019
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. What are the reasons for gap between rural and urban IMR in India? Describe one possible solution for the same.
+2. What are the important reasons for investment for Adolescent Health? Describe in details one of the reason.
+3. Describe task shifting for maternal health.
+
+SHORT QUESTIONS
+1. National Immunization Schedule
+2. Write any five Child health indicators
+3. Urban RCH
+4. Spacing methods of contraception
+5. Write five causes of maternal deaths in India
+6. Define life course approach.
+
+SESSION / YEAR: 2019-2021
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Propose a strategy as a manager to reduce neonatal deaths due to prematurity in a district
+2. Propose a strategy as a manager to reduce maternal deaths due to haemorrhage in a district
+3. Adolescence is an age of opportunity. Justify the statement
+
+SHORT QUESTIONS
+1. Basic Emergency Obstetric and Neonatal care
+2. Role of good emergency transport services in maternal health
+3. Essential newborn care
+4. Prevention of Sexually Transmissible Diseases
+5. National Immunization Schedule
+6. Concept of triple dividend in Adolescent health Dec2019/CC1113
+
+SESSION / YEAR: 2020-2022
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. You are appointed as an RCH officer in a remote Tribal district: You are requested to propose a strategy to reduce direct causes of Maternal Death. Please discuss in detail the proposed strategy.
+2. Please discuss in detail about three Delay models for the prevention of Maternal Death
+3. Adolescents are the most vulnerable population yet ignored: Justify the statement
+
+SHORT QUESTIONS
+1. Comprehensive Emergency Obstetric
+2. Under 5 Mortality Rate
+3. Home Based Neo-natal care
+4. Adolescent Immunization Schedule
+5. Special New Born Care Units
+6. Anaemia amongst adolescents: Reasons and Solutions
+
+SESSION / YEAR: 2021-2023
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. What will you do as a district manager to reduce maternal mortality and morbidity in an area where main cause of mortality and morbidity is Post-Partum Hemorrhage (PPH). Write 10 steps as per priority
+2. What will you do as a district manager to reduce childhood mortality and morbidity in an area where main cause of mortality and morbidity is Pneumonia). Write 10 steps as per priority
+3. What will you do as a district manager to reduce fertility in an area). Write 10 steps as per priority
+
+SHORT QUESTIONS
+1. Vaccines to be given to an infant under National Immunization schedule
+2. Triple dividends of investing in adolescent health
+3. What an ASHA do while visiting a home of a newborn
+4. Task shifting for maternal health
+5. Syndromic approach to treat Sexually Transmible Infections (STI)
+6. Sexual and Reproductive (SRH) problems of adolescents
+
+========================================================================================
+SUBJECT 12: Demography
+SOURCE PDF: 12 - Demography.pdf
+TOTAL QUESTIONS: 72
+========================================================================================
+
+SESSION / YEAR: 2016-2018
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Describe in detail five sources of demographic data.
+2. What is a population pyramid? Explain importance of population pyramid using examples of countries experiencing rapid, slow and negative growth of population.
+3. Using following data, please calculate a) Crude birth rate, b) General Fertility rate, c) Age Specific Fertility rates and d) Total Fertility rate of a hypothetical state A Number of live Births Age-group Persons Males Females to mothers in age- (years) group 0-4 386802 199236 187566 5-9 392267 205161 187106 10-14 405264 210099 195165 15-19 350480 185307 165173 5025 20-24 315587 164783 150804 21892 25-29 282390 147087 135303 15502 30-34 262997 133899 129098 6803 35-39 241823 124527 117296 2399 40-44 212760 108158 104603 580 45-49 182309 93692 88617 146 50-54 149778 76056 73722 55-59 118116 57762 60354 60-64 104964 50912 54053 65-69 69192 32202 36990 70-74 51936 24207 27729 75-79 23660 10424 13236 80+ 27441 12599 14843
+
+SHORT QUESTIONS
+1. Pl calculate infant mortality rate using following data and comment on the trend. Year Total births Neo natal deaths Post neo- natal deaths 2011 296287 4213 2878 2012 300659 3115 1776 2013 305974 2774 1229 2014 324336 3183 999 2015 322750 3756 2069
+2. Government response to the problem of declining child sex ratio in India is optimal. Agree or disagree with explanation.
+3. India’s focus on sterilization as an important for family planning interventions is aligned with its population momentum. Agree or disagree with explanation.
+4. India is in last phase of demographic transition. Agree or disagree with explanation.
+5. Discuss Malthusian and neo-Malthusian arguments of population growth.
+6. Discuss linkages of health and migration.
+
+SESSION / YEAR: 2017-2019
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Discuss linkages between religion and fertility with suitable examples from India and its states
+2. Discuss current focus on India’s family planning programme in context of lessons learnt from over 60 years of interventions.
+3. India’s obsession for sons rooted in its socio-economic realities? Agree or disagree with suitable explanation and examples.
+
+SHORT QUESTIONS
+1. Pl calculate total fertility rate using following data. Age group of Number of live Total women in age mothers Births groups 15-19 253300 2814500 20-24 505850 2420300 25-29 201150 2166500 30-34 88595 2031050 35-39 25645 1858950 40-44 8440 1628150
+2. ‘India’s population will continue to grow despite lowered total fertility rate over last decade’. Agree or disagree with suitable explanation.
+3. Draw diagram of demographic transition model and comment on demographic position of India.
+4. Enlist five determinants of fertility and discuss linkages of women empowerment and fertility.
+5. Discuss Malthusian theory of population and comment on neo-Malthusian arguments of population growth.
+6. Women are less a beneficiary and more an instrument of population control in India. Agree or disagree with suitable explanation.
+
+SESSION / YEAR: 2019-2021
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Describe in detail five sources of demographic data.
+2. Explain in detail the demo-socio-economic underpinning of declining child sex ratio in India with suitable explanation and examples.
+3. Write a note on demographic transition and population momentum
+
+SHORT QUESTIONS
+1. Enlist with formulae five different indicators of early-age mortality
+2. Explain importance of population pyramid.
+3. Discuss the difference in the importance of all-age sex ratio, sex ratio at birth, and child sex ratio
+4. Discuss Malthusian and Neo-Malthusian arguments of population growth.
+5. Discuss linkages of migration and health of migrants as well as local population.
+6. What are characteristics of an urban area? Discuss three urban-specific public health challenges.
+
+SESSION / YEAR: 2020-2022
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Describe in detail the connections of demographics and pandemic like Covid19.
+2. Explain in detail the demo-socio-economic underpinning of declining child sex ratio in India with suitable explanation and examples.
+3. Using following chart, discuss the changes in the world population in last three centuries and how is it expected to change in the current one, along with possible explanation of the trend.
+
+SHORT QUESTIONS
+1. ‘India’s population keep growing because there are still many women who are producing many babies in their lifespan’ - Agree or disagree with suitable explanation.
+2. Discuss the difference in the importance of all-age sex ratio, sex ratio at birth, and child sex ratio
+3. Discuss linkages of migration and health of migrants as well as local population.
+4. Discuss age-specific fertility and its use in population interventions
+5. Discuss the connection of women empowerment as a determinant of fertility
+6. Discuss socio-economic and gender dimensions of population aging in India
+
+SESSION / YEAR: 2021-2023
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Describe in detail the connections of demographics and pandemic like Covid19.
+2. Explain in detail the demo-socio-economic underpinning of declining child sex ratio in India with suitable explanation and examples.
+3. Comment: Fears about a) population explosion and b) demographic shift between religious groups in India are not based on facts.
+
+SHORT QUESTIONS
+1. Discuss the difference in the importance of all-age sex ratio, sex ratio at birth, and child sex ratio
+2. “The system failed to understand the fertility behaviour of poor people and that is why they have large families” - Agree or disagree with suitable explanation
+3. Discuss linkages of migration and health of migrants as well as local population.
+4. “Women are less a beneficiary and more an instrument of population control in India” - Agree or disagree with suitable explanation.
+5. Muslim population in India will never surpass Hindu population in India - - Agree or disagree with suitable explanation.
+6. Draw demographic transition model and comment on population momentum
+
+SESSION / YEAR: 2022-2024
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Discuss the socio-economic causes and implications of declining child sex ratio in India, with suitable evidences.
+2. Describe in detail the connections of demographics and pandemic like Covid19.
+3. Write a note on a) Urbanization and b) migration as demographic phenomena
+
+SHORT QUESTIONS
+1. Discuss the early age mortality rates and its importance
+2. “The system failed to understand the fertility behaviour of poor people and that is why they have large families” - Agree or disagree with suitable explanation
+3. Discuss health related vulnerability and impact of displaced persons.
+4. Population control through family planning is a reproductive health issue for young couples beyond their love for nation or conscious contribution to its socio-economic development: Agree or disagree with suitable explanation.
+5. The increased role of women in the economy through progressive social norms would quell the population alarmism in the 21st century – Agree or disagree with suitable explanation
+6. Appreciating its demographic reality, India must revisit its population, gender and developmental paradigms – Agree or disagree with suitable explanation
+
+SESSION / YEAR: 2023-2025
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Discuss fertility indicators & factors affecting fertility.
+2. Define Migration, explain types of migration and discuss push & Pull factors in context of migration.
+3. Discuss in detail the connection of population aging decline in fertility and son preference
+
+SHORT QUESTIONS
+1. Infant mortality rate & Factors contributing to decrease in IMR
+2. Increasing aging population in India and the challenges to health services.
+3. Role of religion in family planning.
+4. Child Sex ratio and role of son meta preference
+5. Demographic cycle its stages with appropriate examples
+6. Population Pyramid with appropriate examples
+
+SESSION / YEAR: 2024-2026
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Discuss the demographic cycle describing each stage, and comment on its importance in the Indian context.
+2. Explain the concept of fertility, including key indicators and determinants, and examine India’s population policies and interventions considering fertility trends.
+3. Describe primary sources of various demographic data in India, and comment on their utility and limitations for public health planning.
+
+SHORT QUESTIONS
+1. Define basic demographic processes such as fertility, mortality, and migration, and explain their significance in public health.
+2. Describe the demographic transition theory and its relevance to population changes in India.
+3. India is in the second stage of the demographic transition cycle: Agree or disagree with an explanation.
+4. Discuss the significance of the sex ratio in demographic studies and how an imbalanced sex ratio can affect public health.
+5. Identify at least two demographic measures of mortality and discuss their application in public health planning.
+6. Explain the concept of the population pyramid and describe its importance.
+
+========================================================================================
+SUBJECT 13: Health Economics
+SOURCE PDF: 13 - Health Economics.pdf
+TOTAL QUESTIONS: 9
+========================================================================================
+
+SESSION / YEAR: 2017-2019
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Explain schematic model of the relationship between the health sector and the rest of the economy
+2. Explain circular flow of income with a focus on role of government using examples from healthcare industry
+3. Explain concepts of Market, Free Market and Market failure. Discuss reasons of market failure with suitable examples related to health and healthcare
+
+SHORT QUESTIONS
+1. Explain vicious cycle of poverty and virtuous cycle of prosperity with suitable examples
+2. Write a note on economic perspective of HIV/AIDS epidemic
+3. “Supplier induced demand for drugs have far-reaching public health consequences”. Agree or disagree with the statement with economic reasoning and examples.
+4. Discuss economic issues regarding tobacco control with suitable examples
+5. Write a note on economic evaluation of healthcare programmes
+6. “Doctors are economic agents of patients” - Agree or disagree with the statement with economic reasoning and examples.
+
+========================================================================================
+SUBJECT 14: Urban Health
+SOURCE PDF: 14 - Urban Health.pdf
+TOTAL QUESTIONS: 26
+========================================================================================
+
+SESSION / YEAR: 2015-2017
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. List ten key urban public health challenges. Dicuss possible responses to these.
+2. Describe the health delivery model for urban India proposed by the National Health Mission. (Use diagrams to illustrate the model and suggested norms)
+3. List the 9 core strategies underlying the urban health delivery model as envisaged by the the National health mission. Discuss any three of them. Please use illustrations.
+
+SHORT QUESTIONS
+1. Urban penalty and urban advantage
+2. Mahila Arogya Samiti
+3. Factors influencing health and non-health outcomes of urban living (Games et al)
+4. Pathways through which urban living impacts health (Mc Michael A J)
+5. Roles and responsibilities of U-ASHAs
+6. Slums
+
+SESSION / YEAR: 2023-2025
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. What are the various mechanisms through which urbanization affects infections in urban populations? Elaborate with a few examples
+2. Health delivery model for urban India as proposed by the National Health Mission. (Infrastructure, manpower by sizes of cities, sizes of populations)
+3. Galea Framework on how urban living affects health and non-health outcomes
+
+SHORT QUESTIONS
+1. How are street children defined and categorised?
+2. Internal migration in India and its health effects.
+3. What are Age-Friendly Cities? Discuss Eight (08) interconnected domains of WHO Age-friendly cities framework
+4. Effects of urban light pollution on health
+5. Heat-island effect
+6. Elements of built environment that can help prevent non-communicable diseases
+
+SESSION / YEAR: 2024-2026
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. List the NCDs that are known to be associated with urbanization? How does urban living contribute to the prevalence of these diseases? What all strategies can be adopted to reduce the prevalence of NCDs in urban settings?
+2. How does migration contribute to health issues of urban population? Explain with examples. How can the effect of migration be mitigated through the health care/delivery system?
+3. What are ‘Urban Penalty’ and ‘Urban Advantage’. Please use examples to elaborate. Explain, in comparison, the conceptual framework of “Cities and Population Health” proposed by Galea et al. Elaborate with examples upon some of the framework’s various factors influencing health and non-health outcomes of urban living
+
+SHORT QUESTIONS
+1. Slums - Global and Indian definitions
+2. India’s urban population
+3. Walkability Index
+4. Urban air pollution
+5. Urbanization and Infectious Diseases
+
+========================================================================================
+SUBJECT 15: Human Nutrition (HN1)
+SOURCE PDF: 15 - Introduction to Human Nutrition and Macro Nutrients.pdf
+TOTAL QUESTIONS: 8
+========================================================================================
+
+SESSION / YEAR: 2024-2026
+LONG QUESTION MARKS: 10
+SHORT QUESTION MARKS: 5
+
+LONG QUESTIONS
+1. Explain ANY 1 metabolism cycle with the ATPs generated: a. Glycolysis Pathway OR b. Beta Oxidation for Fatty acid metabolism
+2. List all Global Nutrition Targets 2025 and Explain any 1 in detail.
+3. In India, currently the burden of stunting among children under 5 years of age is around 35.5%. What steps or best practices can be adopted to reduce the prevalence of stunting among children in India?
+
+SHORT QUESTIONS
+1. Differentiate between Physiological Fuel value and Gross Fuel value
+2. What is BMR? explain in detail factors affecting BMR.
+3. Explain the vicious cycle of malnutrition.
+4. What is the basic unit of fats? Explain the classification, functions and deficiency of fats.
+5. Explain Nutrition Sensitive and Nutrition Specific interventions with examples for each.
+
+========================================================================================
+TOTAL QUESTIONS ACROSS ALL 15 SUBJECTS: 844
+========================================================================================

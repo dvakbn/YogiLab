@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YogiLab</string>
+    <string name="notification_channel_name">YogiLab Notifications</string>
+    <string name="notification_channel_description">Daily and weekly YogiLab check-in notifications.</string>
+</resources>
